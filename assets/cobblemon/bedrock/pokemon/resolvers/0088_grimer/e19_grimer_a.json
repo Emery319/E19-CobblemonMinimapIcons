@@ -1,0 +1,34 @@
+{
+  "order": 1,
+  "species": "cobblemon:grimer",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0088_grimer/grimer.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0088_grimer/grimer_shiny.png"
+    },
+    {
+      "aspects": [
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0088_grimer/grimer_alola.png"
+    },
+    {
+      "aspects": [
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0088_grimer/grimer_alola_shiny.png"
+    }
+  ]
+}

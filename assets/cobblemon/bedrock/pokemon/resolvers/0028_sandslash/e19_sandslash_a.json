@@ -1,0 +1,34 @@
+{
+  "order": 1,
+  "species": "cobblemon:sandslash",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0028_sandslash/sandslash.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0028_sandslash/sandslash_shiny.png"
+    },
+    {
+      "aspects": [
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0028_sandslash/sandslash_alolan.png"
+    },
+    {
+      "aspects": [
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0028_sandslash/sandslash_alolan_shiny.png"
+    }
+  ]
+}

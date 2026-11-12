@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:pidgeotto",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0017_pidgeotto/pidgeotto.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0017_pidgeotto/pidgeotto_shiny.png"
+    }
+  ]
+}

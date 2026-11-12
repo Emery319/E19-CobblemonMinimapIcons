@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:capsakid",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0951_capsakid/capsakid.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0951_capsakid/capsakid_shiny.png"
+    }
+  ]
+}

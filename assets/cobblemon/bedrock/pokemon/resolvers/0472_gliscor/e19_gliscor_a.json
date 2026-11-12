@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:gliscor",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0472_gliscor/gliscor.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0472_gliscor/gliscor_shiny.png"
+    }
+  ]
+}

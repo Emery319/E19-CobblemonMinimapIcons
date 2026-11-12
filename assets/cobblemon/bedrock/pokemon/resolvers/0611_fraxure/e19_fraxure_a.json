@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:fraxure",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0611_fraxure/fraxure.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0611_fraxure/fraxure_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:foongus",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0590_foongus/foongus.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0590_foongus/foongus_shiny.png"
+    }
+  ]
+}

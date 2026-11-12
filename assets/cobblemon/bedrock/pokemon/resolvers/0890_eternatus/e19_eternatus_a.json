@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:eternatus",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0890_eternatus/eternatus.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0890_eternatus/eternatus_shiny.png"
+    }
+  ]
+}

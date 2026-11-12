@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:leafeon",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0470_leafeon/leafeon.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0470_leafeon/leafeon_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "order": 0,
+  "species": "cobblemon:deerling",
+  "variations": [
+    {
+      "aspects": [
+        "spring",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0585_deerling/deerling_spring.png"
+    },
+    {
+      "aspects": [
+        "summer",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0585_deerling/deerling_summer.png"
+    },
+    {
+      "aspects": [
+        "autumn",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0585_deerling/deerling_autumn.png"
+    },
+    {
+      "aspects": [
+        "winter",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0585_deerling/deerling_winter.png"
+    },
+    {
+      "aspects": [
+        "spring",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0585_deerling/deerling_spring_shiny.png"
+    },
+    {
+      "aspects": [
+        "summer",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0585_deerling/deerling_summer_shiny.png"
+    },
+    {
+      "aspects": [
+        "autumn",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0585_deerling/deerling_autumn_shiny.png"
+    },
+    {
+      "aspects": [
+        "winter",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0585_deerling/deerling_winter_shiny.png"
+    }
+  ]
+}

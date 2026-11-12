@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:clamperl",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0366_clamperl/clamperl.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0366_clamperl/clamperl_shiny.png"
+    }
+  ]
+}

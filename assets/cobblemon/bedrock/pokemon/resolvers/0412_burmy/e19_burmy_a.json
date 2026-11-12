@@ -1,0 +1,198 @@
+{
+  "order": 0,
+  "species": "cobblemon:burmy",
+  "variations": [
+    {
+      "aspects": [
+        "plant-cloak",
+        "male"
+      ],
+      "texture": "cobblemon:textures/pokemon/0412_burmy/burmy_plant_male.png"
+    },
+    {
+      "aspects": [
+        "sandy-cloak",
+        "male"
+      ],
+      "texture": "cobblemon:textures/pokemon/0412_burmy/burmy_sandy_male.png"
+    },
+    {
+      "aspects": [
+        "trash-cloak",
+        "male"
+      ],
+      "texture": "cobblemon:textures/pokemon/0412_burmy/burmy_trash_male.png"
+    },
+    {
+      "aspects": [
+        "plant-cloak",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0412_burmy/burmy_plant_female.png"
+    },
+    {
+      "aspects": [
+        "sandy-cloak",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0412_burmy/burmy_sandy_female.png"
+    },
+    {
+      "aspects": [
+        "trash-cloak",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0412_burmy/burmy_trash_female.png"
+    },
+    {
+      "aspects": [
+        "plant-cloak",
+        "male",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0412_burmy/burmy_plant_male_shiny.png"
+    },
+    {
+      "aspects": [
+        "sandy-cloak",
+        "male",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0412_burmy/burmy_sandy_male_shiny.png"
+    },
+    {
+      "aspects": [
+        "trash-cloak",
+        "male",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0412_burmy/burmy_trash_male_shiny.png"
+    },
+    {
+      "aspects": [
+        "plant-cloak",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0412_burmy/burmy_plant_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "sandy-cloak",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0412_burmy/burmy_sandy_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "trash-cloak",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0412_burmy/burmy_trash_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "plant-cloak",
+        "male",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0412_burmy/burmy_plant_male.png"
+    },
+    {
+      "aspects": [
+        "sandy-cloak",
+        "male",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0412_burmy/burmy_sandy_male.png"
+    },
+    {
+      "aspects": [
+        "trash-cloak",
+        "male",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0412_burmy/burmy_trash_male.png"
+    },
+    {
+      "aspects": [
+        "plant-cloak",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0412_burmy/burmy_plant_female.png"
+    },
+    {
+      "aspects": [
+        "sandy-cloak",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0412_burmy/burmy_sandy_female.png"
+    },
+    {
+      "aspects": [
+        "trash-cloak",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0412_burmy/burmy_trash_female.png"
+    },
+    {
+      "aspects": [
+        "plant-cloak",
+        "male",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0412_burmy/burmy_plant_male_shiny.png"
+    },
+    {
+      "aspects": [
+        "sandy-cloak",
+        "male",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0412_burmy/burmy_sandy_male_shiny.png"
+    },
+    {
+      "aspects": [
+        "trash-cloak",
+        "male",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0412_burmy/burmy_trash_male_shiny.png"
+    },
+    {
+      "aspects": [
+        "plant-cloak",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0412_burmy/burmy_plant_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "sandy-cloak",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0412_burmy/burmy_sandy_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "trash-cloak",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0412_burmy/burmy_trash_female_shiny.png"
+    }
+  ]
+}

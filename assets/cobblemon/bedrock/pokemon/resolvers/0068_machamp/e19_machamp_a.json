@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:machamp",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0068_machamp/machamp.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0068_machamp/machamp_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:honchkrow",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0430_honchkrow/honchkrow.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0430_honchkrow/honchkrow_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:hitmontop",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0237_hitmontop/hitmontop.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0237_hitmontop/hitmontop_shiny.png"
+    }
+  ]
+}

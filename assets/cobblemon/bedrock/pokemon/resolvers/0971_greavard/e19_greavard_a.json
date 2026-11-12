@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:greavard",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0971_greavard/greavard.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0971_greavard/greavard_shiny.png"
+    }
+  ]
+}

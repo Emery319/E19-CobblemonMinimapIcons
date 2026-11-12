@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:boltund",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0836_boltund/boltund.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0836_boltund/boltund_shiny.png"
+    }
+  ]
+}

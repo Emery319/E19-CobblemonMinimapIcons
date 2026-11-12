@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:gorebyss",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0368_gorebyss/gorebyss.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0368_gorebyss/gorebyss_shiny.png"
+    }
+  ]
+}

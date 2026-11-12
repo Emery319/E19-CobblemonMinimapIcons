@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:pupitar",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0247_pupitar/pupitar.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0247_pupitar/pupitar_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:whirlipede",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0544_whirlipede/whirlipede.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0544_whirlipede/whirlipede_shiny.png"
+    }
+  ]
+}

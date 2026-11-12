@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:dracozolt",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0880_dracozolt/dracozolt.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0880_dracozolt/dracozolt_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:lucario",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0448_lucario/lucario.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0448_lucario/lucario_shiny.png"
+    }
+  ]
+}

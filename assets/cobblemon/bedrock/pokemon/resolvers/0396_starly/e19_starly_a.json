@@ -1,0 +1,47 @@
+{
+  "order": 1,
+  "species": "cobblemon:starly",
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0396_starly/starly_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0396_starly/starly_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0396_starly/starly.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0396_starly/starly_shiny.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0396_starly/starly_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0396_starly/starly_female_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:helioptile",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0694_helioptile/helioptile.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0694_helioptile/helioptile_shiny.png"
+    }
+  ]
+}

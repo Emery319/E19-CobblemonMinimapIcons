@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:lapras",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0131_lapras/lapras.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0131_lapras/lapras_shiny.png"
+    }
+  ]
+}

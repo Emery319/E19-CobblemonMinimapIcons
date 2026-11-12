@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:liepard",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0510_liepard/liepard.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0510_liepard/liepard_shiny.png"
+    }
+  ]
+}

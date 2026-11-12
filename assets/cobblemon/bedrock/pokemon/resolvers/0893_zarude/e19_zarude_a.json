@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:zarude",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0893_zarude/zarude.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0893_zarude/zarude_shiny.png"
+    }
+  ]
+}

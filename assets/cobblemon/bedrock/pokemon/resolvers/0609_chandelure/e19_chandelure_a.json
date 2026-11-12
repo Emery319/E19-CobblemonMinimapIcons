@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:chandelure",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0609_chandelure/chandelure.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0609_chandelure/chandelure_shiny.png"
+    }
+  ]
+}

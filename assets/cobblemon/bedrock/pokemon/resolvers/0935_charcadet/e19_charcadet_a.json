@@ -1,0 +1,37 @@
+{
+  "order": 0,
+  "species": "cobblemon:charcadet",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": {
+        "fps": 8,
+        "frames": [
+          "cobblemon:textures/alpha/0935_charcadet/charcadet_1.png",
+          "cobblemon:textures/alpha/0935_charcadet/charcadet_2.png",
+          "cobblemon:textures/alpha/0935_charcadet/charcadet_3.png",
+          "cobblemon:textures/alpha/0935_charcadet/charcadet_4.png"
+        ],
+        "loop": true
+      }
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": {
+        "fps": 8,
+        "frames": [
+          "cobblemon:textures/alpha/0935_charcadet/charcadet_shiny_1.png",
+          "cobblemon:textures/alpha/0935_charcadet/charcadet_shiny_2.png",
+          "cobblemon:textures/alpha/0935_charcadet/charcadet_shiny_3.png",
+          "cobblemon:textures/alpha/0935_charcadet/charcadet_shiny_4.png"
+        ],
+        "loop": true
+      }
+    }
+  ]
+}

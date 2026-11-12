@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:kleavor",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0900_kleavor/kleavor.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0900_kleavor/kleavor_shiny.png"
+    }
+  ]
+}

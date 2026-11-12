@@ -1,0 +1,246 @@
+{
+  "order": 0,
+  "species": "cobblemon:furfrou",
+  "variations": [
+    {
+      "aspects": [
+        "natural-trim",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/furfrou.png"
+    },
+    {
+      "aspects": [
+        "natural-trim",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/furfrou_shiny.png"
+    },
+    {
+      "aspects": [
+        "heart-trim",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/heart/furfrou_heart.png"
+    },
+    {
+      "aspects": [
+        "heart-trim",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/heart/furfrou_heart_shiny.png"
+    },
+    {
+      "aspects": [
+        "star-trim",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/star/furfrou_star.png"
+    },
+    {
+      "aspects": [
+        "star-trim",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/star/furfrou_star_shiny.png"
+    },
+    {
+      "aspects": [
+        "diamond-trim",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/diamond/furfrou_diamond.png"
+    },
+    {
+      "aspects": [
+        "diamond-trim",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/diamond/furfrou_diamond_shiny.png"
+    },
+    {
+      "aspects": [
+        "debutante-trim",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/debutante/furfrou_debutante.png"
+    },
+    {
+      "aspects": [
+        "debutante-trim",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/debutante/furfrou_debutante_shiny.png"
+    },
+    {
+      "aspects": [
+        "matron-trim",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/matron/furfrou_matron.png"
+    },
+    {
+      "aspects": [
+        "matron-trim",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/matron/furfrou_matron_shiny.png"
+    },
+    {
+      "aspects": [
+        "dandy-trim",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/dandy/furfrou_dandy.png"
+    },
+    {
+      "aspects": [
+        "dandy-trim",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/dandy/furfrou_dandy_shiny.png"
+    },
+    {
+      "aspects": [
+        "la_reine-trim",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/lareine/furfrou_lareine.png"
+    },
+    {
+      "aspects": [
+        "la_reine-trim",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/lareine/furfrou_lareine_shiny.png"
+    },
+    {
+      "aspects": [
+        "kabuki-trim",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/kabuki/furfrou_kabuki.png"
+    },
+    {
+      "aspects": [
+        "kabuki-trim",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/kabuki/furfrou_kabuki_shiny.png"
+    },
+    {
+      "aspects": [
+        "pharaoh-trim",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/pharaoh/furfrou_pharaoh.png"
+    },
+    {
+      "aspects": [
+        "pharaoh-trim",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/pharaoh/furfrou_pharaoh_shiny.png"
+    },
+    {
+      "aspects": [
+        "cinnamon-trim",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/cinnamon/furfrou_cinnamon.png"
+    },
+    {
+      "aspects": [
+        "cinnamon-trim",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/cinnamon/furfrou_cinnamon_shiny.png"
+    },
+    {
+      "aspects": [
+        "crusader-trim",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/crusader/furfrou_crusader.png"
+    },
+    {
+      "aspects": [
+        "crusader-trim",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/crusader/furfrou_crusader_shiny.png"
+    },
+    {
+      "aspects": [
+        "lavender-trim",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/lavender/furfrou_lavender.png"
+    },
+    {
+      "aspects": [
+        "lavender-trim",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/lavender/furfrou_lavender_shiny.png"
+    },
+    {
+      "aspects": [
+        "matcha-trim",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/matcha/furfrou_matcha.png"
+    },
+    {
+      "aspects": [
+        "matcha-trim",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/matcha/furfrou_matcha_shiny.png"
+    },
+    {
+      "aspects": [
+        "mourner-trim",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/mourner/furfrou_mourner.png"
+    },
+    {
+      "aspects": [
+        "mourner-trim",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/mourner/furfrou_mourner_shiny.png"
+    },
+    {
+      "aspects": [
+        "rocker-trim",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/rocker/furfrou_rocker.png"
+    },
+    {
+      "aspects": [
+        "rocker-trim",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0676_furfrou/rocker/furfrou_rocker_shiny.png"
+    }
+  ]
+}

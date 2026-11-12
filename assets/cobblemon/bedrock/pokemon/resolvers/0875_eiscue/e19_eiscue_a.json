@@ -1,0 +1,40 @@
+{
+  "order": 1,
+  "species": "cobblemon:eiscue",
+  "variations": [
+    {
+      "aspects": [
+        "noice_face"
+      ],
+      "texture": "cobblemon:textures/pokemon/0875_eiscue/eiscue_no_ice.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0875_eiscue/eiscue.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0875_eiscue/eiscue_shiny.png"
+    },
+    {
+      "aspects": [
+        "noice_face",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0875_eiscue/eiscue_no_ice.png"
+    },
+    {
+      "aspects": [
+        "noice_face",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0875_eiscue/eiscue_no_ice_shiny.png"
+    }
+  ]
+}

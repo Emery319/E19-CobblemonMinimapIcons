@@ -1,0 +1,131 @@
+{
+  "order": 0,
+  "species": "cobblemon:gurdurr",
+  "variations": [
+    {
+      "aspects": [
+        "metals-copper"
+      ],
+      "texture": "cobblemon:textures/pokemon/0533_gurdurr/gurdurr_metals_copper.png"
+    },
+    {
+      "aspects": [
+        "metals-iron"
+      ],
+      "texture": "cobblemon:textures/pokemon/0533_gurdurr/gurdurr_metals_iron.png"
+    },
+    {
+      "aspects": [
+        "metals-gold"
+      ],
+      "texture": "cobblemon:textures/pokemon/0533_gurdurr/gurdurr_metals_gold.png"
+    },
+    {
+      "aspects": [
+        "metals-netherite"
+      ],
+      "texture": "cobblemon:textures/pokemon/0533_gurdurr/gurdurr_metals_netherite.png"
+    },
+    {
+      "aspects": [
+        "metals-copper",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0533_gurdurr/gurdurr_metals_copper_shiny.png"
+    },
+    {
+      "aspects": [
+        "metals-iron",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0533_gurdurr/gurdurr_metals_iron_shiny.png"
+    },
+    {
+      "aspects": [
+        "metals-gold",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0533_gurdurr/gurdurr_metals_gold_shiny.png"
+    },
+    {
+      "aspects": [
+        "metals-netherite",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0533_gurdurr/gurdurr_metals_netherite_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0533_gurdurr/gurdurr.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0533_gurdurr/gurdurr_shiny.png"
+    },
+    {
+      "aspects": [
+        "metals-copper",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0533_gurdurr/gurdurr_metals_copper.png"
+    },
+    {
+      "aspects": [
+        "metals-iron",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0533_gurdurr/gurdurr_metals_iron.png"
+    },
+    {
+      "aspects": [
+        "metals-gold",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0533_gurdurr/gurdurr_metals_gold.png"
+    },
+    {
+      "aspects": [
+        "metals-netherite",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0533_gurdurr/gurdurr_metals_netherite.png"
+    },
+    {
+      "aspects": [
+        "metals-copper",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0533_gurdurr/gurdurr_metals_copper_shiny.png"
+    },
+    {
+      "aspects": [
+        "metals-iron",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0533_gurdurr/gurdurr_metals_iron_shiny.png"
+    },
+    {
+      "aspects": [
+        "metals-gold",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0533_gurdurr/gurdurr_metals_gold_shiny.png"
+    },
+    {
+      "aspects": [
+        "metals-netherite",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0533_gurdurr/gurdurr_metals_netherite_shiny.png"
+    }
+  ]
+}

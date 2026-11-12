@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:plusle",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0311_plusle/plusle.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0311_plusle/plusle_shiny.png"
+    }
+  ]
+}

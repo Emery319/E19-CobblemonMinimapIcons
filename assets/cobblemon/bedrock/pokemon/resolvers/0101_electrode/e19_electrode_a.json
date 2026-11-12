@@ -1,0 +1,167 @@
+{
+  "order": 1,
+  "species": "cobblemon:electrode",
+  "variations": [
+    {
+      "aspects": [
+        "color-lime"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_lime.png"
+    },
+    {
+      "aspects": [
+        "color-green"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_green.png"
+    },
+    {
+      "aspects": [
+        "color-lime",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_lime_shiny.png"
+    },
+    {
+      "aspects": [
+        "color-green",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_green_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0101_electrode/electrode.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0101_electrode/electrode_shiny.png"
+    },
+    {
+      "aspects": [
+        "color-lime",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0101_electrode/electrode_lime.png"
+    },
+    {
+      "aspects": [
+        "color-green",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0101_electrode/electrode_green.png"
+    },
+    {
+      "aspects": [
+        "color-lime",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0101_electrode/electrode_lime_shiny.png"
+    },
+    {
+      "aspects": [
+        "color-green",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0101_electrode/electrode_green_shiny.png"
+    },
+    {
+      "aspects": [
+        "hisuian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian.png"
+    },
+    {
+      "aspects": [
+        "hisuian",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_shiny.png"
+    },
+    {
+      "aspects": [
+        "color-lime",
+        "hisuian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_lime.png"
+    },
+    {
+      "aspects": [
+        "color-green",
+        "hisuian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_green.png"
+    },
+    {
+      "aspects": [
+        "color-lime",
+        "hisuian",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_lime_shiny.png"
+    },
+    {
+      "aspects": [
+        "color-green",
+        "hisuian",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_green_shiny.png"
+    },
+    {
+      "aspects": [
+        "hisuian",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0101_electrode/electrode_hisuian.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "hisuian",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0101_electrode/electrode_hisuian_shiny.png"
+    },
+    {
+      "aspects": [
+        "color-lime",
+        "hisuian",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0101_electrode/electrode_hisuian_lime.png"
+    },
+    {
+      "aspects": [
+        "color-green",
+        "hisuian",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0101_electrode/electrode_hisuian_green.png"
+    },
+    {
+      "aspects": [
+        "color-lime",
+        "hisuian",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0101_electrode/electrode_hisuian_lime_shiny.png"
+    },
+    {
+      "aspects": [
+        "color-green",
+        "hisuian",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0101_electrode/electrode_hisuian_green_shiny.png"
+    }
+  ]
+}

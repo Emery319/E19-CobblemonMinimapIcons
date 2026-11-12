@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:togepi",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0175_togepi/togepi.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0175_togepi/togepi_shiny.png"
+    }
+  ]
+}

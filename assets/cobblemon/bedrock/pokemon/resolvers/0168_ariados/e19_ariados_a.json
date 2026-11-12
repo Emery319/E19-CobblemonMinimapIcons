@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:ariados",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0168_ariados/ariados.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0168_ariados/ariados_shiny.png"
+    }
+  ]
+}

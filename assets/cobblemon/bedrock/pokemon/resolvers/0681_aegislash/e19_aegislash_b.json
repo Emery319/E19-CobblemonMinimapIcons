@@ -1,0 +1,230 @@
+{
+  "order": 2,
+  "species": "cobblemon:aegislash",
+  "variations": [
+    {
+      "aspects": [
+        "sword-wooden"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_wooden.png"
+    },
+    {
+      "aspects": [
+        "sword-stone"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_stone.png"
+    },
+    {
+      "aspects": [
+        "sword-copper"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_copper.png"
+    },
+    {
+      "aspects": [
+        "sword-iron"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_iron.png"
+    },
+    {
+      "aspects": [
+        "sword-gold"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_gold.png"
+    },
+    {
+      "aspects": [
+        "sword-diamond"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_diamond.png"
+    },
+    {
+      "aspects": [
+        "sword-netherite"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_netherite.png"
+    },
+    {
+      "aspects": [
+        "sword-ruined"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_ruined.png"
+    },
+    {
+      "aspects": [
+        "blade-forme",
+        "sword-wooden"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_blade_wooden.png"
+    },
+    {
+      "aspects": [
+        "blade-forme",
+        "sword-stone"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_blade_stone.png"
+    },
+    {
+      "aspects": [
+        "blade-forme",
+        "sword-copper"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_blade_copper.png"
+    },
+    {
+      "aspects": [
+        "blade-forme",
+        "sword-iron"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_blade_iron.png"
+    },
+    {
+      "aspects": [
+        "blade-forme",
+        "sword-gold"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_blade_gold.png"
+    },
+    {
+      "aspects": [
+        "blade-forme",
+        "sword-diamond"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_blade_diamond.png"
+    },
+    {
+      "aspects": [
+        "blade-forme",
+        "sword-netherite"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_blade_netherite.png"
+    },
+    {
+      "aspects": [
+        "blade-forme",
+        "sword-ruined"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_blade_ruined.png"
+    },
+    {
+      "aspects": [
+        "sword-wooden",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_wooden_shiny.png"
+    },
+    {
+      "aspects": [
+        "sword-stone",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_stone_shiny.png"
+    },
+    {
+      "aspects": [
+        "sword-copper",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_copper_shiny.png"
+    },
+    {
+      "aspects": [
+        "sword-iron",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_iron_shiny.png"
+    },
+    {
+      "aspects": [
+        "sword-gold",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_gold_shiny.png"
+    },
+    {
+      "aspects": [
+        "sword-diamond",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_diamond_shiny.png"
+    },
+    {
+      "aspects": [
+        "sword-netherite",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_netherite_shiny.png"
+    },
+    {
+      "aspects": [
+        "sword-ruined",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_ruined_shiny.png"
+    },
+    {
+      "aspects": [
+        "blade-forme",
+        "sword-wooden",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_blade_wooden_shiny.png"
+    },
+    {
+      "aspects": [
+        "blade-forme",
+        "sword-stone",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_blade_stone_shiny.png"
+    },
+    {
+      "aspects": [
+        "blade-forme",
+        "sword-copper",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_blade_copper_shiny.png"
+    },
+    {
+      "aspects": [
+        "blade-forme",
+        "sword-iron",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_blade_iron_shiny.png"
+    },
+    {
+      "aspects": [
+        "blade-forme",
+        "sword-gold",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_blade_gold_shiny.png"
+    },
+    {
+      "aspects": [
+        "blade-forme",
+        "sword-diamond",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_blade_diamond_shiny.png"
+    },
+    {
+      "aspects": [
+        "blade-forme",
+        "sword-netherite",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_blade_netherite_shiny.png"
+    },
+    {
+      "aspects": [
+        "blade-forme",
+        "sword-ruined",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0681_aegislash/aegislash_blade_ruined_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:skarmory",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0227_skarmory/skarmory.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0227_skarmory/skarmory_shiny.png"
+    }
+  ]
+}

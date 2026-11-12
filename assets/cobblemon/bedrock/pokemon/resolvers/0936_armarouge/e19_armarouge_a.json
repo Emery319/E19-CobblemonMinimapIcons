@@ -1,0 +1,37 @@
+{
+  "order": 0,
+  "species": "cobblemon:armarouge",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": {
+        "fps": 8,
+        "frames": [
+          "cobblemon:textures/alpha/0936_armarouge/armarouge_1.png",
+          "cobblemon:textures/alpha/0936_armarouge/armarouge_2.png",
+          "cobblemon:textures/alpha/0936_armarouge/armarouge_3.png",
+          "cobblemon:textures/alpha/0936_armarouge/armarouge_4.png"
+        ],
+        "loop": true
+      }
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": {
+        "fps": 8,
+        "frames": [
+          "cobblemon:textures/alpha/0936_armarouge/armarouge_shiny_1.png",
+          "cobblemon:textures/alpha/0936_armarouge/armarouge_shiny_2.png",
+          "cobblemon:textures/alpha/0936_armarouge/armarouge_shiny_3.png",
+          "cobblemon:textures/alpha/0936_armarouge/armarouge_shiny_4.png"
+        ],
+        "loop": true
+      }
+    }
+  ]
+}

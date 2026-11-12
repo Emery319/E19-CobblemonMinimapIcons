@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:budew",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0406_budew/budew.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0406_budew/budew_shiny.png"
+    }
+  ]
+}

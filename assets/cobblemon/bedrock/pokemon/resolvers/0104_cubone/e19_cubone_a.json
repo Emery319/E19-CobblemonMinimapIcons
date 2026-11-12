@@ -1,0 +1,47 @@
+{
+  "order": 1,
+  "species": "cobblemon:cubone",
+  "variations": [
+    {
+      "aspects": [
+        "region-bias-alola"
+      ],
+      "texture": "cobblemon:textures/pokemon/0104_cubone/cubone_alola_bias.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "region-bias-alola"
+      ],
+      "texture": "cobblemon:textures/pokemon/0104_cubone/cubone_alola_bias_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0104_cubone/cubone.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0104_cubone/cubone_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0104_cubone/cubone_alola_bias.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0104_cubone/cubone_alola_bias_shiny.png"
+    }
+  ]
+}

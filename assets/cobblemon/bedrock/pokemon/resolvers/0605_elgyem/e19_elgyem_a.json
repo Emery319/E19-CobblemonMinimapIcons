@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:elgyem",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0605_elgyem/elgyem.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0605_elgyem/elgyem_shiny.png"
+    }
+  ]
+}

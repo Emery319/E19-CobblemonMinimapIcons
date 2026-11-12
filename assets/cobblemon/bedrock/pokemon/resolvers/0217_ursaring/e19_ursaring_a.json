@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:ursaring",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0217_ursaring/ursaring.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0217_ursaring/ursaring_shiny.png"
+    }
+  ]
+}

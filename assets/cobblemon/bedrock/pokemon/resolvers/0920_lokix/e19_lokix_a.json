@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:lokix",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0920_lokix/lokix.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0920_lokix/lokix_shiny.png"
+    }
+  ]
+}

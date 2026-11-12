@@ -1,0 +1,94 @@
+{
+  "order": 5,
+  "species": "cobblemon:rotom",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0479_rotom/rotom.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0479_rotom/rotom_shiny.png"
+    },
+    {
+      "aspects": [
+        "heat-appliance",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0479_rotom/heat/rotom_heat.png"
+    },
+    {
+      "aspects": [
+        "heat-appliance",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0479_rotom/heat/rotom_heat_shiny.png"
+    },
+    {
+      "aspects": [
+        "wash-appliance",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0479_rotom/wash/rotom_wash.png"
+    },
+    {
+      "aspects": [
+        "wash-appliance",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0479_rotom/wash/rotom_wash_shiny.png"
+    },
+    {
+      "aspects": [
+        "frost-appliance",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0479_rotom/frost/rotom_frost.png"
+    },
+    {
+      "aspects": [
+        "frost-appliance",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0479_rotom/frost/rotom_frost_shiny.png"
+    },
+    {
+      "aspects": [
+        "fan-appliance",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0479_rotom/fan/rotom_fan.png"
+    },
+    {
+      "aspects": [
+        "fan-appliance",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0479_rotom/fan/rotom_fan_shiny.png"
+    },
+    {
+      "aspects": [
+        "mow-appliance",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0479_rotom/mow/rotom_mow.png"
+    },
+    {
+      "aspects": [
+        "mow-appliance",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0479_rotom/mow/rotom_mow_shiny.png"
+    }
+  ]
+}

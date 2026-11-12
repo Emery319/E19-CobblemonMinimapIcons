@@ -1,0 +1,47 @@
+{
+  "order": 0,
+  "species": "cobblemon:politoed",
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0186_politoed/politoed_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0186_politoed/politoed_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0186_politoed/politoed.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0186_politoed/politoed_shiny.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0186_politoed/politoed_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0186_politoed/politoed_female_shiny.png"
+    }
+  ]
+}

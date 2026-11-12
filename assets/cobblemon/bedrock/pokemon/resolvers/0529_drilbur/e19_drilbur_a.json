@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:drilbur",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0529_drilbur/drilbur.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0529_drilbur/drilbur_shiny.png"
+    }
+  ]
+}

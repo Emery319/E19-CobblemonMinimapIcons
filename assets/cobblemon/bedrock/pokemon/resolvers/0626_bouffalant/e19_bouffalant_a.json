@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:bouffalant",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0626_bouffalant/bouffalant.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0626_bouffalant/bouffalant_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 1,
+  "species": "cobblemon:ivysaur",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0002_ivysaur/ivysaur.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0002_ivysaur/ivysaur_shiny.png"
+    }
+  ]
+}

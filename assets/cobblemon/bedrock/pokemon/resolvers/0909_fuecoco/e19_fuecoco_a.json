@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:fuecoco",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0909_fuecoco/fuecoco.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0909_fuecoco/fuecoco_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 1,
+  "species": "cobblemon:exeggcute",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0102_exeggcute/exeggcute.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0102_exeggcute/exeggcute_shiny.png"
+    }
+  ]
+}

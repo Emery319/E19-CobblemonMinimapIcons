@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:beartic",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0614_beartic/beartic.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0614_beartic/beartic_shiny.png"
+    }
+  ]
+}

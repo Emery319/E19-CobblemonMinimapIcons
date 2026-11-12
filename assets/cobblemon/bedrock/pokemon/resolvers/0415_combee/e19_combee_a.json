@@ -1,0 +1,62 @@
+{
+  "order": 0,
+  "species": "cobblemon:combee",
+  "variations": [
+    {
+      "aspects": [
+        "male"
+      ],
+      "texture": "cobblemon:textures/pokemon/0415_combee/combee_male.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "male"
+      ],
+      "texture": "cobblemon:textures/pokemon/0415_combee/combee_male_shiny.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0415_combee/combee_female.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0415_combee/combee_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "male",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0415_combee/combee_male.png"
+    },
+    {
+      "aspects": [
+        "male",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0415_combee/combee_male_shiny.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0415_combee/combee_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0415_combee/combee_female_shiny.png"
+    }
+  ]
+}

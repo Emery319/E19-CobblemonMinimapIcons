@@ -1,0 +1,45 @@
+{
+  "order": 0,
+  "species": "cobblemon:ceruledge",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": {
+        "fps": 8,
+        "frames": [
+          "cobblemon:textures/alpha/0937_ceruledge/ceruledge_1.png",
+          "cobblemon:textures/alpha/0937_ceruledge/ceruledge_2.png",
+          "cobblemon:textures/alpha/0937_ceruledge/ceruledge_3.png",
+          "cobblemon:textures/alpha/0937_ceruledge/ceruledge_4.png",
+          "cobblemon:textures/alpha/0937_ceruledge/ceruledge_5.png",
+          "cobblemon:textures/alpha/0937_ceruledge/ceruledge_6.png",
+          "cobblemon:textures/alpha/0937_ceruledge/ceruledge_7.png",
+          "cobblemon:textures/alpha/0937_ceruledge/ceruledge_8.png"
+        ],
+        "loop": true
+      }
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": {
+        "fps": 8,
+        "frames": [
+          "cobblemon:textures/alpha/0937_ceruledge/ceruledge_shiny_1.png",
+          "cobblemon:textures/alpha/0937_ceruledge/ceruledge_shiny_2.png",
+          "cobblemon:textures/alpha/0937_ceruledge/ceruledge_shiny_3.png",
+          "cobblemon:textures/alpha/0937_ceruledge/ceruledge_shiny_4.png",
+          "cobblemon:textures/alpha/0937_ceruledge/ceruledge_shiny_5.png",
+          "cobblemon:textures/alpha/0937_ceruledge/ceruledge_shiny_6.png",
+          "cobblemon:textures/alpha/0937_ceruledge/ceruledge_shiny_7.png",
+          "cobblemon:textures/alpha/0937_ceruledge/ceruledge_shiny_8.png"
+        ],
+        "loop": true
+      }
+    }
+  ]
+}

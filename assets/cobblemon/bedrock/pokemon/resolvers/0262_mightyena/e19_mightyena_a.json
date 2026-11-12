@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:mightyena",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0262_mightyena/mightyena.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0262_mightyena/mightyena_shiny.png"
+    }
+  ]
+}

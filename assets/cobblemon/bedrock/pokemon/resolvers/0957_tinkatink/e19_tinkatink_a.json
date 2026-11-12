@@ -1,0 +1,34 @@
+{
+  "order": 0,
+  "species": "cobblemon:tinkatink",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0957_tinkatink/tinkatink.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0957_tinkatink/tinkatink_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-music",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0957_tinkatink/tinkatink_dot.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-music",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0957_tinkatink/tinkatink_dot_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:anorith",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0347_anorith/anorith.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0347_anorith/anorith_shiny.png"
+    }
+  ]
+}

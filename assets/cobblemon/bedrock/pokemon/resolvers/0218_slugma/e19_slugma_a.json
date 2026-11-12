@@ -1,0 +1,19 @@
+{
+  "order": 1,
+  "species": "cobblemon:slugma",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0218_slugma/slugma.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0218_slugma/slugma_shiny.png"
+    }
+  ]
+}

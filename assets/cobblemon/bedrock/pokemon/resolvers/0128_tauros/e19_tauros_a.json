@@ -1,0 +1,68 @@
+{
+  "order": 3,
+  "species": "cobblemon:tauros",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0128_tauros/tauros.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0128_tauros/tauros_shiny.png"
+    },
+    {
+      "aspects": [
+        "paldean",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0128_tauros/tauros_paldean_combat.png"
+    },
+    {
+      "aspects": [
+        "paldean",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0128_tauros/tauros_paldean_combat_shiny.png"
+    },
+    {
+      "aspects": [
+        "paldean",
+        "blaze-breed",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0128_tauros/tauros_paldean_blaze.png"
+    },
+    {
+      "aspects": [
+        "paldean",
+        "blaze-breed",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0128_tauros/tauros_paldean_blaze_shiny.png"
+    },
+    {
+      "aspects": [
+        "paldean",
+        "aqua-breed",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0128_tauros/tauros_paldean_aqua.png"
+    },
+    {
+      "aspects": [
+        "paldean",
+        "aqua-breed",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0128_tauros/tauros_paldean_aqua_shiny.png"
+    }
+  ]
+}

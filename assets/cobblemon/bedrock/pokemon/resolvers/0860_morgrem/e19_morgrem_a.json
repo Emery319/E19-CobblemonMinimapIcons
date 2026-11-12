@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:morgrem",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0860_morgrem/morgrem.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0860_morgrem/morgrem_shiny.png"
+    }
+  ]
+}

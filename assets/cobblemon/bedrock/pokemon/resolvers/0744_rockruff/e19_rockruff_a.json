@@ -1,0 +1,47 @@
+{
+  "order": 1,
+  "species": "cobblemon:rockruff",
+  "variations": [
+    {
+      "aspects": [
+        "dusk-form"
+      ],
+      "texture": "cobblemon:textures/pokemon/0744_rockruff/rockruff_dusk.png"
+    },
+    {
+      "aspects": [
+        "dusk-form",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0744_rockruff/rockruff_dusk_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0744_rockruff/rockruff.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0744_rockruff/rockruff_shiny.png"
+    },
+    {
+      "aspects": [
+        "dusk-form",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0744_rockruff/rockruff_dusk.png"
+    },
+    {
+      "aspects": [
+        "dusk-form",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0744_rockruff/rockruff_dusk_shiny.png"
+    }
+  ]
+}

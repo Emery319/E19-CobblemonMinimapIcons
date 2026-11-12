@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:porygon",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0137_porygon/porygon.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0137_porygon/porygon_shiny.png"
+    }
+  ]
+}

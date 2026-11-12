@@ -1,0 +1,47 @@
+{
+  "order": 1,
+  "species": "cobblemon:torchic",
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0255_torchic/torchic_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0255_torchic/torchic_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0255_torchic/torchic.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0255_torchic/torchic_shiny.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0255_torchic/torchic_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0255_torchic/torchic_female_shiny.png"
+    }
+  ]
+}

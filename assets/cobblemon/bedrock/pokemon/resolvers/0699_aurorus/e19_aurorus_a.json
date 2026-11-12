@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:aurorus",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0699_aurorus/aurorus.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0699_aurorus/aurorus_shiny.png"
+    }
+  ]
+}

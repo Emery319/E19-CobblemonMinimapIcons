@@ -1,0 +1,36 @@
+{
+  "order": 1,
+  "species": "cobblemon:shellos",
+  "variations": [
+    {
+      "aspects": [
+        "west-sea",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0422_shellos/shellos_west.png"
+    },
+    {
+      "aspects": [
+        "west-sea",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0422_shellos/shellos_west_shiny.png"
+    },
+    {
+      "aspects": [
+        "east-sea",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0422_shellos/shellos_east.png"
+    },
+    {
+      "aspects": [
+        "east-sea",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0422_shellos/shellos_east_shiny.png"
+    }
+  ]
+}

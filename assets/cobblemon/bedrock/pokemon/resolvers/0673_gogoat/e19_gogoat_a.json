@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:gogoat",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0673_gogoat/gogoat.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0673_gogoat/gogoat_shiny.png"
+    }
+  ]
+}

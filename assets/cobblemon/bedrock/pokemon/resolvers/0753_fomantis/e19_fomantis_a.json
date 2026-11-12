@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:fomantis",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0753_fomantis/fomantis.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0753_fomantis/fomantis_shiny.png"
+    }
+  ]
+}

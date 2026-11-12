@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:zebstrika",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0523_zebstrika/zebstrika.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0523_zebstrika/zebstrika_shiny.png"
+    }
+  ]
+}

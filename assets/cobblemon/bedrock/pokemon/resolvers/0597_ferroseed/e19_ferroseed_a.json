@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:ferroseed",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0597_ferroseed/ferroseed.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0597_ferroseed/ferroseed_shiny.png"
+    }
+  ]
+}

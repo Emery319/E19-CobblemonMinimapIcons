@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:cascoon",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0268_cascoon/cascoon.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0268_cascoon/cascoon_shiny.png"
+    }
+  ]
+}

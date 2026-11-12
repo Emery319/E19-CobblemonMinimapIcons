@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:scraggy",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0559_scraggy/scraggy.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0559_scraggy/scraggy_shiny.png"
+    }
+  ]
+}

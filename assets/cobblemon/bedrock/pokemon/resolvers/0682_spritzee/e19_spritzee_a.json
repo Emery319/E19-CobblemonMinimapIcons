@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:spritzee",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0682_spritzee/spritzee.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0682_spritzee/spritzee_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:vanillish",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0583_vanillish/vanillish.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0583_vanillish/vanillish_shiny.png"
+    }
+  ]
+}

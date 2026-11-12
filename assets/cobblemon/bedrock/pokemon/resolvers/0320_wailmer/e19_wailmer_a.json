@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:wailmer",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0320_wailmer/wailmer.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0320_wailmer/wailmer_shiny.png"
+    }
+  ]
+}

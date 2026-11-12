@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:tepig",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0498_tepig/tepig.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0498_tepig/tepig_shiny.png"
+    }
+  ]
+}

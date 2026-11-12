@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:cleffa",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0173_cleffa/cleffa.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0173_cleffa/cleffa_shiny.png"
+    }
+  ]
+}

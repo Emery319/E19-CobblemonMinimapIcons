@@ -1,0 +1,174 @@
+{
+  "order": 0,
+  "species": "cobblemon:florges",
+  "variations": [
+    {
+      "aspects": [
+        "flower-blue"
+      ],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_blue.png"
+    },
+    {
+      "aspects": [
+        "flower-orange"
+      ],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_orange.png"
+    },
+    {
+      "aspects": [
+        "flower-yellow"
+      ],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_yellow.png"
+    },
+    {
+      "aspects": [
+        "flower-white"
+      ],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_white.png"
+    },
+    {
+      "aspects": [
+        "flower-red"
+      ],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_red.png"
+    },
+    {
+      "aspects": [
+        "flower-pink"
+      ],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_pink.png"
+    },
+    {
+      "aspects": [
+        "flower-blue",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_blue_shiny.png"
+    },
+    {
+      "aspects": [
+        "flower-orange",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_orange_shiny.png"
+    },
+    {
+      "aspects": [
+        "flower-yellow",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_yellow_shiny.png"
+    },
+    {
+      "aspects": [
+        "flower-white",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_white_shiny.png"
+    },
+    {
+      "aspects": [
+        "flower-red",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_red_shiny.png"
+    },
+    {
+      "aspects": [
+        "flower-pink",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0671_florges/florges_pink_shiny.png"
+    },
+    {
+      "aspects": [
+        "flower-blue",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0671_florges/florges_blue.png"
+    },
+    {
+      "aspects": [
+        "flower-orange",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0671_florges/florges_orange.png"
+    },
+    {
+      "aspects": [
+        "flower-yellow",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0671_florges/florges_yellow.png"
+    },
+    {
+      "aspects": [
+        "flower-white",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0671_florges/florges_white.png"
+    },
+    {
+      "aspects": [
+        "flower-red",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0671_florges/florges_red.png"
+    },
+    {
+      "aspects": [
+        "flower-pink",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0671_florges/florges_pink.png"
+    },
+    {
+      "aspects": [
+        "flower-blue",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0671_florges/florges_blue_shiny.png"
+    },
+    {
+      "aspects": [
+        "flower-orange",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0671_florges/florges_orange_shiny.png"
+    },
+    {
+      "aspects": [
+        "flower-yellow",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0671_florges/florges_yellow_shiny.png"
+    },
+    {
+      "aspects": [
+        "flower-white",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0671_florges/florges_white_shiny.png"
+    },
+    {
+      "aspects": [
+        "flower-red",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0671_florges/florges_red_shiny.png"
+    },
+    {
+      "aspects": [
+        "flower-pink",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0671_florges/florges_pink_shiny.png"
+    }
+  ]
+}

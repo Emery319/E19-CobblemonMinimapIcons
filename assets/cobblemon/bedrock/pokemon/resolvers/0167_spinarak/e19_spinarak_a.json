@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:spinarak",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0167_spinarak/spinarak.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0167_spinarak/spinarak_shiny.png"
+    }
+  ]
+}

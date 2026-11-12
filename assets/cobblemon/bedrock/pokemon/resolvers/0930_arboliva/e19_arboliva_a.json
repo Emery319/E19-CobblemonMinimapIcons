@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:arboliva",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0930_arboliva/arboliva.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0930_arboliva/arboliva_shiny.png"
+    }
+  ]
+}

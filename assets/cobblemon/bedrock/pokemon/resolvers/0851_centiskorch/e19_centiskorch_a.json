@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:centiskorch",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0851_centiskorch/centiskorch.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0851_centiskorch/centiskorch_shiny.png"
+    }
+  ]
+}

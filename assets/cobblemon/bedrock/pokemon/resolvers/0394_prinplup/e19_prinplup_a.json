@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:prinplup",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0394_prinplup/prinplup.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0394_prinplup/prinplup_shiny.png"
+    }
+  ]
+}

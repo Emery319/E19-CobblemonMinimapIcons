@@ -1,0 +1,84 @@
+{
+  "order": 3,
+  "species": "cobblemon:pikachu",
+  "variations": [
+    {
+      "aspects": [
+        "cosplay"
+      ],
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cosplay.png"
+    },
+    {
+      "aspects": [
+        "belle"
+      ],
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cosplay_belle.png"
+    },
+    {
+      "aspects": [
+        "libre"
+      ],
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cosplay_libre.png"
+    },
+    {
+      "aspects": [
+        "phd"
+      ],
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cosplay_phd.png"
+    },
+    {
+      "aspects": [
+        "pop_star"
+      ],
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cosplay_popstar.png"
+    },
+    {
+      "aspects": [
+        "rock_star"
+      ],
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cosplay_rockstar.png"
+    },
+    {
+      "aspects": [
+        "cosplay",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cosplay_shiny.png"
+    },
+    {
+      "aspects": [
+        "belle",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cosplay_belle_shiny.png"
+    },
+    {
+      "aspects": [
+        "libre",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cosplay_libre_shiny.png"
+    },
+    {
+      "aspects": [
+        "phd",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cosplay_phd_shiny.png"
+    },
+    {
+      "aspects": [
+        "pop_star",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cosplay_popstar_shiny.png"
+    },
+    {
+      "aspects": [
+        "rock_star",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cosplay_rockstar_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:cetoddle",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0974_cetoddle/cetoddle.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0974_cetoddle/cetoddle_shiny.png"
+    }
+  ]
+}

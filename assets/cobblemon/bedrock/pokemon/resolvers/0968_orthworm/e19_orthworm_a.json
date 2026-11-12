@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:orthworm",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0968_orthworm/orthworm.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0968_orthworm/orthworm_shiny.png"
+    }
+  ]
+}

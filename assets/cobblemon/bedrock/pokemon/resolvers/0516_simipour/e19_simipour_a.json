@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:simipour",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0516_simipour/simipour.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0516_simipour/simipour_shiny.png"
+    }
+  ]
+}

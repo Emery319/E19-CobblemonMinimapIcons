@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:walkingwake",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/1009_walkingwake/walkingwake.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/1009_walkingwake/walkingwake_shiny.png"
+    }
+  ]
+}

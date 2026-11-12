@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:grotle",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0388_grotle/grotle.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0388_grotle/grotle_shiny.png"
+    }
+  ]
+}

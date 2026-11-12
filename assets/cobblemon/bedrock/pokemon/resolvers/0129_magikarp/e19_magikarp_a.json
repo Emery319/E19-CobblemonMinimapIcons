@@ -1,0 +1,1504 @@
+{
+  "order": 3,
+  "species": "cobblemon:magikarp",
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-stripes",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_apricot_stripes_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-tiger",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_apricot_tiger_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-zebra",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_apricot_zebra_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-black-forehead",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_black_forehead_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-black-mask",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_black_mask_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-blue-raindrops",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_blue_raindrops_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-blue-saucy",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_blue_saucy_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-stripes",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_brown_stripes_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-tiger",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_brown_tiger_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-zebra",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_brown_zebra_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-gold",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_calico_orange_gold_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-white",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_calico_orange_white_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-white-black",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_calico_orange_white_black_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-white-orange",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_calico_white_orange_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-bubbles",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_gray_bubbles_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-diamonds",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_gray_diamonds_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-patches",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_gray_patches_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-dapples",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_orange_dapples_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-forehead",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_orange_forehead_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-mask",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_orange_mask_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-orca",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_orange_orca_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-two-tone",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_orange_two_tone_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-dapples",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_pink_dapples_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-orca",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_pink_orca_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-two-tone",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_pink_two_tone_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-bubbles",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_purple_bubbles_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-diamonds",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_purple_diamonds_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-patches",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_purple_patches_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-skelly",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_skelly_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-violet-raindrops",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_violet_raindrops_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-violet-saucy",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_violet_saucy_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-stripes",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_apricot_stripes_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-tiger",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_apricot_tiger_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-zebra",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_apricot_zebra_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-black-forehead",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_black_forehead_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-black-mask",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_black_mask_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-blue-raindrops",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_blue_raindrops_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-blue-saucy",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_blue_saucy_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-stripes",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_brown_stripes_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-tiger",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_brown_tiger_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-zebra",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_brown_zebra_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-gold",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_calico_orange_gold_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-white",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_calico_orange_white_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-white-black",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_calico_orange_white_black_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-white-orange",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_calico_white_orange_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-bubbles",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_gray_bubbles_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-diamonds",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_gray_diamonds_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-patches",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_gray_patches_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-dapples",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_orange_dapples_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-forehead",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_orange_forehead_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-mask",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_orange_mask_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-orca",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_orange_orca_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-two-tone",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_orange_two_tone_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-dapples",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_pink_dapples_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-orca",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_pink_orca_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-two-tone",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_pink_two_tone_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-bubbles",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_purple_bubbles_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-diamonds",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_purple_diamonds_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-patches",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_purple_patches_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-skelly",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_skelly_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-violet-raindrops",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_violet_raindrops_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-violet-saucy",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_jump/magikarp_violet_saucy_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-stripes",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_apricot_stripes.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-tiger",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_apricot_tiger.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-zebra",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_apricot_zebra.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-black-forehead",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_black_forehead.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-black-mask",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_black_mask.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-blue-raindrops",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_blue_raindrops.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-blue-saucy",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_blue_saucy.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-stripes",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_brown_stripes.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-tiger",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_brown_tiger.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-zebra",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_brown_zebra.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-gold",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_calico_orange_gold.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-white",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_calico_orange_white.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-white-black",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_calico_orange_white_black.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-white-orange",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_calico_white_orange.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-bubbles",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_gray_bubbles.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-diamonds",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_gray_diamonds.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-patches",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_gray_patches.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-dapples",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_dapples.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-forehead",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_forehead.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-mask",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_mask.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-orca",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_orca.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-two-tone",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_two_tone.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-dapples",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_pink_dapples.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-orca",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_pink_orca.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-two-tone",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_pink_two_tone.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-bubbles",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_purple_bubbles.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-diamonds",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_purple_diamonds.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-patches",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_purple_patches.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-skelly",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_skelly.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-violet-raindrops",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_violet_raindrops.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-violet-saucy",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_violet_saucy.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-stripes",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_apricot_stripes_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-tiger",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_apricot_tiger_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-zebra",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_apricot_zebra_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-black-forehead",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_black_forehead_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-black-mask",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_black_mask_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-blue-raindrops",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_blue_raindrops_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-blue-saucy",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_blue_saucy_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-stripes",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_brown_stripes_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-tiger",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_brown_tiger_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-zebra",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_brown_zebra_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-gold",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_calico_orange_gold_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-white",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_calico_orange_white_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-white-black",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_calico_orange_white_black_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-white-orange",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_calico_white_orange_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-bubbles",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_gray_bubbles_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-diamonds",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_gray_diamonds_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-patches",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_gray_patches_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-dapples",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_dapples_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-forehead",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_forehead_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-mask",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_mask_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-orca",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_orca_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-two-tone",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_two_tone_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-dapples",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_pink_dapples_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-orca",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_pink_orca_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-two-tone",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_pink_two_tone_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-bubbles",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_purple_bubbles_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-diamonds",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_purple_diamonds_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-patches",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_purple_patches_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-skelly",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_skelly_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-violet-raindrops",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_violet_raindrops_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-violet-saucy",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_violet_saucy_shiny.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-stripes",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_apricot_stripes_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-tiger",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_apricot_tiger_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-zebra",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_apricot_zebra_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-black-forehead",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_black_forehead_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-black-mask",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_black_mask_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-blue-raindrops",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_blue_raindrops_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-blue-saucy",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_blue_saucy_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-stripes",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_brown_stripes_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-tiger",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_brown_tiger_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-zebra",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_brown_zebra_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-gold",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_calico_orange_gold_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-white",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_calico_orange_white_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-white-black",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_calico_orange_white_black_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-white-orange",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_calico_white_orange_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-bubbles",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_gray_bubbles_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-diamonds",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_gray_diamonds_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-patches",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_gray_patches_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-dapples",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_dapples_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-forehead",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_forehead_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-mask",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_mask_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-orca",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_orca_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-two-tone",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_two_tone_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-dapples",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_pink_dapples_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-orca",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_pink_orca_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-two-tone",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_pink_two_tone_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-bubbles",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_purple_bubbles_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-diamonds",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_purple_diamonds_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-patches",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_purple_patches_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-skelly",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_skelly_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-violet-raindrops",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_violet_raindrops_female.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-violet-saucy",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_violet_saucy_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-stripes",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_apricot_stripes_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-tiger",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_apricot_tiger_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-apricot-zebra",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_apricot_zebra_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-black-forehead",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_black_forehead_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-black-mask",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_black_mask_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-blue-raindrops",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_blue_raindrops_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-blue-saucy",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_blue_saucy_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-stripes",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_brown_stripes_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-tiger",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_brown_tiger_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-brown-zebra",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_brown_zebra_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-gold",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_calico_orange_gold_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-white",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_calico_orange_white_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-orange-white-black",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_calico_orange_white_black_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-calico-white-orange",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_calico_white_orange_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-bubbles",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_gray_bubbles_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-diamonds",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_gray_diamonds_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-gray-patches",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_gray_patches_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-dapples",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_dapples_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-forehead",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_forehead_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-mask",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_mask_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-orca",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_orca_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-orange-two-tone",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_orange_two_tone_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-dapples",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_pink_dapples_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-orca",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_pink_orca_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-pink-two-tone",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_pink_two_tone_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-bubbles",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_purple_bubbles_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-diamonds",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_purple_diamonds_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-purple-patches",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_purple_patches_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-skelly",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_skelly_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-violet-raindrops",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_violet_raindrops_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "magikarp-jump-violet-saucy",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0129_magikarp/magikarp_jump/magikarp_violet_saucy_female_shiny.png"
+    }
+  ]
+}

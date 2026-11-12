@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:cacnea",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0331_cacnea/cacnea.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0331_cacnea/cacnea_shiny.png"
+    }
+  ]
+}

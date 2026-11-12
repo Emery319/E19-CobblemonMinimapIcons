@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:venomoth",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0049_venomoth/venomoth.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0049_venomoth/venomoth_shiny.png"
+    }
+  ]
+}

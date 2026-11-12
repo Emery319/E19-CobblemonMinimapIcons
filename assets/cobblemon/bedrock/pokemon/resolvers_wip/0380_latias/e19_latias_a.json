@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:latias",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0380_latias/latias.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0380_latias/latias_shiny.png"
+    }
+  ]
+}

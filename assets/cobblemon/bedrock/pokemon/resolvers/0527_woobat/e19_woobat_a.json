@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:woobat",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0527_woobat/woobat.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0527_woobat/woobat_shiny.png"
+    }
+  ]
+}

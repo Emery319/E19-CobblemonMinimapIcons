@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:cetitan",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0975_cetitan/cetitan.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0975_cetitan/cetitan_shiny.png"
+    }
+  ]
+}

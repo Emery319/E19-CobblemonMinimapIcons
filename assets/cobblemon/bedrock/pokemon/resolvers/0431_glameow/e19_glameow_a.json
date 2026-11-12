@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:glameow",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0431_glameow/glameow.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0431_glameow/glameow_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:glaceon",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0471_glaceon/glaceon.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0471_glaceon/glaceon_shiny.png"
+    }
+  ]
+}

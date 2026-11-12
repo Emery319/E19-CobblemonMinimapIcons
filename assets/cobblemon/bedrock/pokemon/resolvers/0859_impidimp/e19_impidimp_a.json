@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:impidimp",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0859_impidimp/impidimp.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0859_impidimp/impidimp_shiny.png"
+    }
+  ]
+}

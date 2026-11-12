@@ -1,0 +1,66 @@
+{
+  "order": 0,
+  "species": "cobblemon:mimikyu",
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0778_mimikyu/mimikyu_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0778_mimikyu/mimikyu_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "busted-form",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0778_mimikyu/mimikyu_busted_female.png"
+    },
+    {
+      "aspects": [
+        "busted-form",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0778_mimikyu/mimikyu_busted_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0778_mimikyu/mimikyu_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0778_mimikyu/mimikyu_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "busted-form",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0778_mimikyu/mimikyu_busted_female.png"
+    },
+    {
+      "aspects": [
+        "busted-form",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0778_mimikyu/mimikyu_busted_female_shiny.png"
+    }
+  ]
+}

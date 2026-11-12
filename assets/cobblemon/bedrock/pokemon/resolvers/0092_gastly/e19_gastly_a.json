@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:gastly",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0092_gastly/gastly.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0092_gastly/gastly_shiny.png"
+    }
+  ]
+}

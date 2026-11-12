@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:gumshoos",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0735_gumshoos/gumshoos.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0735_gumshoos/gumshoos_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "order": 1,
+  "species": "cobblemon:toxtricity",
+  "variations": [
+    {
+      "aspects": [
+        "amped-form",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0849_toxtricity/toxtricity_amped.png"
+    },
+    {
+      "aspects": [
+        "amped-form",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0849_toxtricity/toxtricity_amped_shiny.png"
+    },
+    {
+      "aspects": [
+        "low_key-form",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0849_toxtricity/toxtricity_lowkey.png"
+    },
+    {
+      "aspects": [
+        "low_key-form",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0849_toxtricity/toxtricity_lowkey_shiny.png"
+    }
+  ]
+}

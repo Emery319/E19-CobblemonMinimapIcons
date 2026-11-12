@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:wugtrio",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0961_wugtrio/wugtrio.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0961_wugtrio/wugtrio_shiny.png"
+    }
+  ]
+}

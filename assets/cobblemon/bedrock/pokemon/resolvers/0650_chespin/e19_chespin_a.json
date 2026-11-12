@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:chespin",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0650_chespin/chespin.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0650_chespin/chespin_shiny.png"
+    }
+  ]
+}

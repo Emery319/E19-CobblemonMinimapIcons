@@ -1,0 +1,47 @@
+{
+  "order": 0,
+  "species": "cobblemon:jigglypuff",
+  "variations": [
+    {
+      "aspects": [
+        "color-black"
+      ],
+      "texture": "cobblemon:textures/pokemon/0039_jigglypuff/jigglypuff_black.png"
+    },
+    {
+      "aspects": [
+        "color-black",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0039_jigglypuff/jigglypuff_black_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0039_jigglypuff/jigglypuff.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0039_jigglypuff/jigglypuff_shiny.png"
+    },
+    {
+      "aspects": [
+        "color-black",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0039_jigglypuff/jigglypuff_black.png"
+    },
+    {
+      "aspects": [
+        "color-black",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0039_jigglypuff/jigglypuff_black_shiny.png"
+    }
+  ]
+}

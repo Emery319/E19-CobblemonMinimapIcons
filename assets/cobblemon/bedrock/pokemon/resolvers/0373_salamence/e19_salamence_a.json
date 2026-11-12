@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:salamence",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0373_salamence/salamence.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0373_salamence/salamence_shiny.png"
+    }
+  ]
+}

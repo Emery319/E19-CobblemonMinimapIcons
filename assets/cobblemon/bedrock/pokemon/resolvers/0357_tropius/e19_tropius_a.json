@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:tropius",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0357_tropius/tropius.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0357_tropius/tropius_shiny.png"
+    }
+  ]
+}

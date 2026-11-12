@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:empoleon",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0395_empoleon/empoleon.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0395_empoleon/empoleon_shiny.png"
+    }
+  ]
+}

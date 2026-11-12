@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:clefable",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0036_clefable/clefable.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0036_clefable/clefable_shiny.png"
+    }
+  ]
+}

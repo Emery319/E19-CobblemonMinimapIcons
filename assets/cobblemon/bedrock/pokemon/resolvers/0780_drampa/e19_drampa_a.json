@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:drampa",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0780_drampa/drampa.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0780_drampa/drampa_shiny.png"
+    }
+  ]
+}

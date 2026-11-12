@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:seismitoad",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0537_seismitoad/seismitoad.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0537_seismitoad/seismitoad_shiny.png"
+    }
+  ]
+}

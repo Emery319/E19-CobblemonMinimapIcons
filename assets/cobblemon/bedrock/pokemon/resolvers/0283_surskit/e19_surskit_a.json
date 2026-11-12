@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:surskit",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0283_surskit/surskit.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0283_surskit/surskit_shiny.png"
+    }
+  ]
+}

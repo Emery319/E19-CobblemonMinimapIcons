@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:togetic",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0176_togetic/togetic.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0176_togetic/togetic_shiny.png"
+    }
+  ]
+}

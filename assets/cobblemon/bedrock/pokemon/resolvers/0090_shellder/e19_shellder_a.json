@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:shellder",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0090_shellder/shellder.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0090_shellder/shellder_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "order": 0,
+  "species": "cobblemon:spiritomb",
+  "variations": [
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0442_spiritomb/spiritomb_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0442_spiritomb/spiritomb.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0442_spiritomb/spiritomb_shiny.png"
+    }
+  ]
+}

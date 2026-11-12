@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:lickilicky",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0463_lickilicky/lickilicky.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0463_lickilicky/lickilicky_shiny.png"
+    }
+  ]
+}

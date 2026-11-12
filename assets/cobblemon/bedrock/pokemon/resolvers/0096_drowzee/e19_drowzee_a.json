@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:drowzee",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0096_drowzee/drowzee.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0096_drowzee/drowzee_shiny.png"
+    }
+  ]
+}

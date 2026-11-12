@@ -1,0 +1,454 @@
+{
+  "order": 3,
+  "species": "cobblemon:roselia",
+  "variations": [
+    {
+      "aspects": [
+        "roselia-rose-red-red"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_red_red.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-red-blue"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_red_blue.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-red-white"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_red_white.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-red-yellow"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_red_yellow.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-blue-red"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_blue_red.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-blue-blue"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_blue_blue.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-blue-white"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_blue_white.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-blue-yellow"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_blue_yellow.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-white-red"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_white_red.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-white-blue"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_white_blue.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-white-white"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_white_white.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-white-yellow"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_white_yellow.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-yellow-red"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_yellow_red.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-yellow-blue"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_yellow_blue.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-yellow-white"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_yellow_white.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-yellow-yellow"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_yellow_yellow.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-red-red",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_red_red_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-red-blue",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_red_blue_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-red-white",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_red_white_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-red-yellow",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_red_yellow_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-blue-red",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_blue_red_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-blue-blue",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_blue_blue_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-blue-white",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_blue_white_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-blue-yellow",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_blue_yellow_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-white-red",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_white_red_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-white-blue",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_white_blue_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-white-white",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_white_white_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-white-yellow",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_white_yellow_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-yellow-red",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_yellow_red_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-yellow-blue",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_yellow_blue_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-yellow-white",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_yellow_white_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-yellow-yellow",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_yellow_yellow_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-red-red",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_red_red.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-red-blue",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_red_blue.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-red-white",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_red_white.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-red-yellow",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_red_yellow.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-blue-red",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_blue_red.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-blue-blue",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_blue_blue.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-blue-white",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_blue_white.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-blue-yellow",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_blue_yellow.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-white-red",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_white_red.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-white-blue",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_white_blue.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-white-white",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_white_white.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-white-yellow",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_white_yellow.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-yellow-red",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_yellow_red.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-yellow-blue",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_yellow_blue.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-yellow-white",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_yellow_white.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-yellow-yellow",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_yellow_yellow.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-red-red",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_red_red_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-red-blue",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_red_blue_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-red-white",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_red_white_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-red-yellow",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_red_yellow_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-blue-red",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_blue_red_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-blue-blue",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_blue_blue_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-blue-white",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_blue_white_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-blue-yellow",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_blue_yellow_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-white-red",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_white_red_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-white-blue",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_white_blue_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-white-white",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_white_white_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-white-yellow",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_white_yellow_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-yellow-red",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_yellow_red_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-yellow-blue",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_yellow_blue_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-yellow-white",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_yellow_white_shiny.png"
+    },
+    {
+      "aspects": [
+        "roselia-rose-yellow-yellow",
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_yellow_yellow_shiny.png"
+    }
+  ]
+}

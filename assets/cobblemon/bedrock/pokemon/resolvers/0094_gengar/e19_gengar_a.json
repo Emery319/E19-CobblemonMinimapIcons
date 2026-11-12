@@ -1,0 +1,47 @@
+{
+  "order": 0,
+  "species": "cobblemon:gengar",
+  "variations": [
+    {
+      "aspects": [
+        "color-green"
+      ],
+      "texture": "cobblemon:textures/pokemon/0094_gengar/gengar_green.png"
+    },
+    {
+      "aspects": [
+        "color-green",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0094_gengar/gengar_green_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0094_gengar/gengar.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0094_gengar/gengar_shiny.png"
+    },
+    {
+      "aspects": [
+        "color-green",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0094_gengar/gengar_green.png"
+    },
+    {
+      "aspects": [
+        "color-green",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0094_gengar/gengar_green_shiny.png"
+    }
+  ]
+}

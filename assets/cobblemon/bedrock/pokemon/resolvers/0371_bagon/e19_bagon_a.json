@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:bagon",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0371_bagon/bagon.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0371_bagon/bagon_shiny.png"
+    }
+  ]
+}

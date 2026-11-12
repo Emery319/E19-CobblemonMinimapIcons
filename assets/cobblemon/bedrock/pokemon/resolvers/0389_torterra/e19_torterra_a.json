@@ -1,0 +1,169 @@
+{
+  "order": 10,
+  "species": "cobblemon:torterra",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-birch",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_birch.png"
+    },
+    {
+      "aspects": [
+        "tree-birch",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_birch_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-darkoak",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_darkoak.png"
+    },
+    {
+      "aspects": [
+        "tree-darkoak",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_darkoak_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-oak",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_oak.png"
+    },
+    {
+      "aspects": [
+        "tree-oak",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_oak_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-spruce",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_spruce.png"
+    },
+    {
+      "aspects": [
+        "tree-spruce",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_spruce_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-jungle",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_jungle.png"
+    },
+    {
+      "aspects": [
+        "tree-jungle",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_jungle_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-swamp",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_swamp.png"
+    },
+    {
+      "aspects": [
+        "tree-swamp",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_swamp_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-acacia",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_acacia.png"
+    },
+    {
+      "aspects": [
+        "tree-acacia",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_acacia_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-azalea",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_azalea.png"
+    },
+    {
+      "aspects": [
+        "tree-azalea",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_azalea_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-mangrove",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_mangrove.png"
+    },
+    {
+      "aspects": [
+        "tree-mangrove",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_mangrove_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-cherry",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_cherry.png"
+    },
+    {
+      "aspects": [
+        "tree-cherry",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0389_torterra/torterra_cherry_shiny.png"
+    }
+  ]
+}

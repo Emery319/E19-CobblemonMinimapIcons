@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:barbaracle",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0689_barbaracle/barbaracle.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0689_barbaracle/barbaracle_shiny.png"
+    }
+  ]
+}

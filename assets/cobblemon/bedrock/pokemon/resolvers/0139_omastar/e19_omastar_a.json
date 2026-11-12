@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:omastar",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0139_omastar/omastar.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0139_omastar/omastar_shiny.png"
+    }
+  ]
+}

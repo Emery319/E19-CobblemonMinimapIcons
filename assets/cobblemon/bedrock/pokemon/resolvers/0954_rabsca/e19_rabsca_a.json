@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:rabsca",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0954_rabsca/rabsca.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0954_rabsca/rabsca_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:zapdos",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0145_zapdos/zapdos.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0145_zapdos/zapdos_shiny.png"
+    }
+  ]
+}

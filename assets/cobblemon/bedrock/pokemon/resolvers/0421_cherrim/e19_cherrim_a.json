@@ -1,0 +1,34 @@
+{
+  "order": 1,
+  "species": "cobblemon:cherrim",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0421_cherrim/cherrim_overcast.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0421_cherrim/cherrim_overcast_shiny.png"
+    },
+    {
+      "aspects": [
+        "sunshine-form",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0421_cherrim/cherrim_sunshine.png"
+    },
+    {
+      "aspects": [
+        "sunshine-form",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0421_cherrim/cherrim_sunshine_shiny.png"
+    }
+  ]
+}

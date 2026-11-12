@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:minun",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0312_minun/minun.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0312_minun/minun_shiny.png"
+    }
+  ]
+}

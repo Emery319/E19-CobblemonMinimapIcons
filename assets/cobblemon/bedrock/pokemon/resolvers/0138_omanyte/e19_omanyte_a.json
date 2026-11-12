@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:omanyte",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0138_omanyte/omanyte.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0138_omanyte/omanyte_shiny.png"
+    }
+  ]
+}

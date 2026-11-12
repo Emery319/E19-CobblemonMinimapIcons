@@ -1,0 +1,1258 @@
+{
+  "order": 1,
+  "species": "cobblemon:raichu",
+  "variations": [
+    {
+      "aspects": [
+        "cosmetic_item-rage_candy_bar"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_original.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-pewter_crunchies"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_partner.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lava_cookie"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_hoenn.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-old_gateau"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_sinnoh.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-casteliacone"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_unova.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lumiose_galette"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_kalos.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-big_malasada"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alola.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-smoked_tail_curry"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_world.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-shears"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_fluff.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-leather_helmet"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-sinister_tea"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-cocoa_beans"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_harry.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-rage_candy_bar",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_original.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-pewter_crunchies",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_partner.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lava_cookie",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_hoenn.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-old_gateau",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_sinnoh.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-casteliacone",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_unova.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lumiose_galette",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_kalos.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-big_malasada",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_alola.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-smoked_tail_curry",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_world.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_cap.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-shears",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_fluff.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-leather_helmet",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-sinister_tea",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-cocoa_beans",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-rage_candy_bar",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_original_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-pewter_crunchies",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_partner_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lava_cookie",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_hoenn_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-old_gateau",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_sinnoh_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-casteliacone",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_unova_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lumiose_galette",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_kalos_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-big_malasada",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alola_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-smoked_tail_curry",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_world_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-shears",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_fluff_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-leather_helmet",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-sinister_tea",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-cocoa_beans",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-rage_candy_bar",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_original_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-pewter_crunchies",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_partner_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lava_cookie",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_hoenn_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-old_gateau",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_sinnoh_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-casteliacone",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_unova_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lumiose_galette",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_kalos_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-big_malasada",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_alola_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-smoked_tail_curry",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_world_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_cap_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-shears",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_fluff_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-leather_helmet",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-sinister_tea",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-cocoa_beans",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_female_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-rage_candy_bar",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_original.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-pewter_crunchies",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_partner.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lava_cookie",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_hoenn.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-old_gateau",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_sinnoh.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-casteliacone",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_unova.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lumiose_galette",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_kalos.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-big_malasada",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alola.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-smoked_tail_curry",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_world.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_cap.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-shears",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_fluff.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-leather_helmet",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-sinister_tea",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-cocoa_beans",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_harry.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-rage_candy_bar",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_original.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-pewter_crunchies",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_partner.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lava_cookie",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_hoenn.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-old_gateau",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_sinnoh.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-casteliacone",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_unova.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lumiose_galette",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_kalos.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-big_malasada",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_alola.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-smoked_tail_curry",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_world.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_cap.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-shears",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_fluff.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-leather_helmet",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-sinister_tea",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-cocoa_beans",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_harry.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-rage_candy_bar",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_original_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-pewter_crunchies",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_partner_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lava_cookie",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_hoenn_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-old_gateau",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_sinnoh_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-casteliacone",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_unova_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lumiose_galette",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_kalos_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-big_malasada",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alola_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-smoked_tail_curry",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_world_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_cap_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-shears",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_fluff_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-leather_helmet",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-sinister_tea",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-cocoa_beans",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-rage_candy_bar",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_original_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-pewter_crunchies",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_partner_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lava_cookie",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_hoenn_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-old_gateau",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_sinnoh_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-casteliacone",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_unova_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lumiose_galette",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_kalos_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-big_malasada",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_alola_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-smoked_tail_curry",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_world_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_cap_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-shears",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_fluff_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-leather_helmet",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-sinister_tea",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-cocoa_beans",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_female_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-rage_candy_bar",
+        "alolan"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_original.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-pewter_crunchies",
+        "alolan"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_partner.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lava_cookie",
+        "alolan"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_hoenn.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-old_gateau",
+        "alolan"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_sinnoh.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-casteliacone",
+        "alolan"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_unova.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lumiose_galette",
+        "alolan"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_kalos.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-big_malasada",
+        "alolan"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_alola.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-smoked_tail_curry",
+        "alolan"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_world.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "alolan"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_cap.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-shears",
+        "alolan"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_fluff.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-leather_helmet",
+        "alolan"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-sinister_tea",
+        "alolan"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-cocoa_beans",
+        "alolan"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-rage_candy_bar",
+        "alolan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_original_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-pewter_crunchies",
+        "alolan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_partner_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lava_cookie",
+        "alolan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_hoenn_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-old_gateau",
+        "alolan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_sinnoh_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-casteliacone",
+        "alolan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_unova_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lumiose_galette",
+        "alolan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_kalos_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-big_malasada",
+        "alolan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_alola_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-smoked_tail_curry",
+        "alolan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_world_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "alolan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_cap_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-shears",
+        "alolan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_fluff_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-leather_helmet",
+        "alolan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-sinister_tea",
+        "alolan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-cocoa_beans",
+        "alolan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-rage_candy_bar",
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_original.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-pewter_crunchies",
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_partner.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lava_cookie",
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_hoenn.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-old_gateau",
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_sinnoh.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-casteliacone",
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_unova.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lumiose_galette",
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_kalos.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-big_malasada",
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_alola.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-smoked_tail_curry",
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_world.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_cap.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-shears",
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_fluff.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-leather_helmet",
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-sinister_tea",
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-cocoa_beans",
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_harry.png"
+    },
+    {
+      "aspects": [
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-rage_candy_bar",
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_original_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-pewter_crunchies",
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_partner_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lava_cookie",
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_hoenn_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-old_gateau",
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_sinnoh_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-casteliacone",
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_unova_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lumiose_galette",
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_kalos_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-big_malasada",
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_alola_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-smoked_tail_curry",
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_world_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_cap_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-shears",
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_fluff_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-leather_helmet",
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-sinister_tea",
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-cocoa_beans",
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0026_raichu/raichu_alolan_harry_shiny.png"
+    }
+  ]
+}

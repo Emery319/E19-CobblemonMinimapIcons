@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:kingambit",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0983_kingambit/kingambit.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0983_kingambit/kingambit_shiny.png"
+    }
+  ]
+}

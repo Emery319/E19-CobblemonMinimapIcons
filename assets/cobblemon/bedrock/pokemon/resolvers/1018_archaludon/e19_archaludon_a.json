@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:archaludon",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/1018_archaludon/archaludon.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/1018_archaludon/archaludon_shiny.png"
+    }
+  ]
+}

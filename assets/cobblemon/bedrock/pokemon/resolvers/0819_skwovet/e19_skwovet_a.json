@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:skwovet",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0819_skwovet/skwovet.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0819_skwovet/skwovet_shiny.png"
+    }
+  ]
+}

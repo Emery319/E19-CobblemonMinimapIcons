@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:dewgong",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0087_dewgong/dewgong.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0087_dewgong/dewgong_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "order": 2,
+  "species": "cobblemon:vileplume",
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0045_vileplume/vileplume_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0045_vileplume/vileplume_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0045_vileplume/vileplume.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0045_vileplume/vileplume_shiny.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0045_vileplume/vileplume_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0045_vileplume/vileplume_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "valencian",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0045_vileplume/vileplume_valencian.png"
+    },
+    {
+      "aspects": [
+        "valencian",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0045_vileplume/vileplume_valencian_shiny.png"
+    }
+  ]
+}

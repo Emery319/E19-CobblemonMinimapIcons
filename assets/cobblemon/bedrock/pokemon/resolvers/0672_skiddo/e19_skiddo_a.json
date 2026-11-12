@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:skiddo",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0672_skiddo/skiddo.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0672_skiddo/skiddo_shiny.png"
+    }
+  ]
+}

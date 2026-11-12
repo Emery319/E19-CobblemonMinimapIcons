@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:corphish",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0341_corphish/corphish.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0341_corphish/corphish_shiny.png"
+    }
+  ]
+}

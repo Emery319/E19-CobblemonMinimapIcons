@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:simisear",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0514_simisear/simisear.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0514_simisear/simisear_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "order": 2,
+  "species": "cobblemon:miltank",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0241_miltank/miltank.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0241_miltank/miltank_shiny.png"
+    },
+    {
+      "aspects": [
+        "mooshtank-red",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0241_miltank/miltank_red_mushroom.png"
+    },
+    {
+      "aspects": [
+        "mooshtank-red",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0241_miltank/miltank_red_mushroom_shiny.png"
+    },
+    {
+      "aspects": [
+        "mooshtank-brown",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0241_miltank/miltank_brown_mushroom.png"
+    },
+    {
+      "aspects": [
+        "mooshtank-brown",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0241_miltank/miltank_brown_mushroom_shiny.png"
+    }
+  ]
+}

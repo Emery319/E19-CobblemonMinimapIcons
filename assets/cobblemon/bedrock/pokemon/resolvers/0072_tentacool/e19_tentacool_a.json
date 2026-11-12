@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:tentacool",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0072_tentacool/tentacool.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0072_tentacool/tentacool_shiny.png"
+    }
+  ]
+}

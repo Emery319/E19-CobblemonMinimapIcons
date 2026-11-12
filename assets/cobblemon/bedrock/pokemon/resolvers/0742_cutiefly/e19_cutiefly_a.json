@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:cutiefly",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0742_cutiefly/cutiefly.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0742_cutiefly/cutiefly_shiny.png"
+    }
+  ]
+}

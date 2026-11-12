@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:heatmor",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0631_heatmor/heatmor.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0631_heatmor/heatmor_shiny.png"
+    }
+  ]
+}

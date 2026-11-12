@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:hitmonchan",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0107_hitmonchan/hitmonchan.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0107_hitmonchan/hitmonchan_shiny.png"
+    }
+  ]
+}

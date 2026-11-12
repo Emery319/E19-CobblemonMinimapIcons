@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:barboach",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0339_barboach/barboach.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0339_barboach/barboach_shiny.png"
+    }
+  ]
+}

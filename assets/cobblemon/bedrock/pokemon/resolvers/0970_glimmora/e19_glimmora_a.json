@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:glimmora",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0970_glimmora/glimmora.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0970_glimmora/glimmora_shiny.png"
+    }
+  ]
+}

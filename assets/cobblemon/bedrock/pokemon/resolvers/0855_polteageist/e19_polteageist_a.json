@@ -1,0 +1,47 @@
+{
+  "order": 1,
+  "species": "cobblemon:polteageist",
+  "variations": [
+    {
+      "aspects": [
+        "antique"
+      ],
+      "texture": "cobblemon:textures/pokemon/0855_polteageist/polteageist_antique.png"
+    },
+    {
+      "aspects": [
+        "antique",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0855_polteageist/polteageist_antique_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0855_polteageist/polteageist.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0855_polteageist/polteageist_shiny.png"
+    },
+    {
+      "aspects": [
+        "antique",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0855_polteageist/polteageist_antique.png"
+    },
+    {
+      "aspects": [
+        "antique",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0855_polteageist/polteageist_antique_shiny.png"
+    }
+  ]
+}

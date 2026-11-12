@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:cramorant",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0845_cramorant/cramorant.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0845_cramorant/cramorant_shiny.png"
+    }
+  ]
+}

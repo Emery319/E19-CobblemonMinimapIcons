@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:hatenna",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0856_hatenna/hatenna.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0856_hatenna/hatenna_shiny.png"
+    }
+  ]
+}

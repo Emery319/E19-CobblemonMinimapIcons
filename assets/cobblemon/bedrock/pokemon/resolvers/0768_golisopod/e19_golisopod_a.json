@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:golisopod",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0768_golisopod/golisopod.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0768_golisopod/golisopod_shiny.png"
+    }
+  ]
+}

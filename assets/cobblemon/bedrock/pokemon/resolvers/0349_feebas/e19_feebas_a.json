@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:feebas",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0349_feebas/feebas.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0349_feebas/feebas_shiny.png"
+    }
+  ]
+}

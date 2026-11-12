@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:gigalith",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0526_gigalith/gigalith.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0526_gigalith/gigalith_shiny.png"
+    }
+  ]
+}

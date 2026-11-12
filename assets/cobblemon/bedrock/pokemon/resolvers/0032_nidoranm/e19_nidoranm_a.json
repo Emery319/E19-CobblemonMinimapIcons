@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:nidoranm",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0032_nidoranm/nidoranm.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0032_nidoranm/nidoranm_shiny.png"
+    }
+  ]
+}

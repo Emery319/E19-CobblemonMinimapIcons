@@ -1,0 +1,47 @@
+{
+  "order": 0,
+  "species": "cobblemon:spoink",
+  "variations": [
+    {
+      "aspects": [
+        "cosmetic_item-ender_pearl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0325_spoink/spoink_ender.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-ender_pearl",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0325_spoink/spoink_ender_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0325_spoink/spoink.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0325_spoink/spoink_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-ender_pearl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0325_spoink/spoink_ender.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-ender_pearl",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0325_spoink/spoink_ender_shiny.png"
+    }
+  ]
+}

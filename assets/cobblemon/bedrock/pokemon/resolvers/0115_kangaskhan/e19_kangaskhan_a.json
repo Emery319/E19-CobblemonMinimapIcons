@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:kangaskhan",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0115_kangaskhan/kangaskhan.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0115_kangaskhan/kangaskhan_shiny.png"
+    }
+  ]
+}

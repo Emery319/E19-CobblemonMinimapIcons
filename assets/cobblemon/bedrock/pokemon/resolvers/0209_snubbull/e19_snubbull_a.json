@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:snubbull",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0209_snubbull/snubbull.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0209_snubbull/snubbull_shiny.png"
+    }
+  ]
+}

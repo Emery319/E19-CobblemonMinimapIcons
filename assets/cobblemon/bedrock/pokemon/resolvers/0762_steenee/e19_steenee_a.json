@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:steenee",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0762_steenee/steenee.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0762_steenee/steenee_shiny.png"
+    }
+  ]
+}

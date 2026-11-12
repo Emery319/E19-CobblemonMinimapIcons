@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:trevenant",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0709_trevenant/trevenant.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0709_trevenant/trevenant_shiny.png"
+    }
+  ]
+}

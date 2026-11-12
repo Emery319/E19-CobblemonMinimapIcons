@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:articuno",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0144_articuno/articuno.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0144_articuno/articuno_shiny.png"
+    }
+  ]
+}

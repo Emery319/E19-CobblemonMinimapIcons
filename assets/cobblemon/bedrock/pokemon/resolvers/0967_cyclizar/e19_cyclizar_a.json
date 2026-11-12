@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:cyclizar",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0967_cyclizar/cyclizar.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0967_cyclizar/cyclizar_shiny.png"
+    }
+  ]
+}

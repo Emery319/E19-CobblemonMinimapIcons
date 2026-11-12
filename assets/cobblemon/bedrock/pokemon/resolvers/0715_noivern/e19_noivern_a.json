@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:noivern",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0715_noivern/noivern.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0715_noivern/noivern_shiny.png"
+    }
+  ]
+}

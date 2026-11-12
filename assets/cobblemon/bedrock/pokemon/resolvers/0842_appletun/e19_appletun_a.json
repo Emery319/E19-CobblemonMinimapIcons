@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:appletun",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0842_appletun/appletun.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0842_appletun/appletun_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "order": 1,
+  "species": "cobblemon:cyndaquil",
+  "variations": [
+    {
+      "aspects": [
+        "region-bias-hisui"
+      ],
+      "texture": "cobblemon:textures/pokemon/0155_cyndaquil/cyndaquil_hisui_bias.png"
+    },
+    {
+      "aspects": [
+        "region-bias-hisui",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0155_cyndaquil/cyndaquil_hisui_bias_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0155_cyndaquil/cyndaquil.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0155_cyndaquil/cyndaquil_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-hisui",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0155_cyndaquil/cyndaquil_hisui_bias.png"
+    },
+    {
+      "aspects": [
+        "region-bias-hisui",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0155_cyndaquil/cyndaquil_hisui_bias_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:thwackey",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0811_thwackey/thwackey.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0811_thwackey/thwackey_shiny.png"
+    }
+  ]
+}

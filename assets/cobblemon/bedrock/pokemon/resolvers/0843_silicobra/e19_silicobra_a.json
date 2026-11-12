@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:silicobra",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0843_silicobra/silicobra.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0843_silicobra/silicobra_shiny.png"
+    }
+  ]
+}

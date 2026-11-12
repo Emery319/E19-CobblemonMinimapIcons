@@ -1,0 +1,66 @@
+{
+  "order": 0,
+  "species": "cobblemon:squawkabilly",
+  "variations": [
+    {
+      "aspects": [
+        "squawkabilly-color-blue",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0931_squawkabilly/squawkabilly_blue.png"
+    },
+    {
+      "aspects": [
+        "squawkabilly-color-gray",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0931_squawkabilly/squawkabilly_gray.png"
+    },
+    {
+      "aspects": [
+        "squawkabilly-color-green",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0931_squawkabilly/squawkabilly_green.png"
+    },
+    {
+      "aspects": [
+        "squawkabilly-color-yellow",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0931_squawkabilly/squawkabilly_yellow.png"
+    },
+    {
+      "aspects": [
+        "squawkabilly-color-blue",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0931_squawkabilly/squawkabilly_blue_shiny.png"
+    },
+    {
+      "aspects": [
+        "squawkabilly-color-gray",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0931_squawkabilly/squawkabilly_gray_shiny.png"
+    },
+    {
+      "aspects": [
+        "squawkabilly-color-green",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0931_squawkabilly/squawkabilly_green_shiny.png"
+    },
+    {
+      "aspects": [
+        "squawkabilly-color-yellow",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0931_squawkabilly/squawkabilly_yellow_shiny.png"
+    }
+  ]
+}

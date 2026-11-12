@@ -1,0 +1,47 @@
+{
+  "order": 0,
+  "species": "cobblemon:treecko",
+  "variations": [
+    {
+      "aspects": [
+        "cosmetic_item-stick"
+      ],
+      "texture": "cobblemon:textures/pokemon/0252_treecko/treecko_twig.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-stick",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0252_treecko/treecko_twig_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0252_treecko/treecko.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0252_treecko/treecko_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-stick",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0252_treecko/treecko_twig.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-stick",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0252_treecko/treecko_twig_shiny.png"
+    }
+  ]
+}

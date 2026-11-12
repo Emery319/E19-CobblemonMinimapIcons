@@ -1,0 +1,887 @@
+{
+  "order": 1,
+  "species": "cobblemon:pichu",
+  "variations": [
+    {
+      "aspects": [
+        "cosmetic_item-rage_candy_bar"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_original.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-pewter_crunchies"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_partner.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lava_cookie"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_hoenn.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-old_gateau"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_sinnoh.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-casteliacone"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_unova.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lumiose_galette"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_kalos.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-big_malasada"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-smoked_tail_curry"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_world.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_cap.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-shears"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_fluff.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-leather_helmet"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-sinister_tea"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-cocoa_beans"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-music"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_music.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-rage_candy_bar",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_original_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-pewter_crunchies",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_partner_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lava_cookie",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_hoenn_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-old_gateau",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_sinnoh_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-casteliacone",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_unova_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lumiose_galette",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_kalos_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-big_malasada",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-smoked_tail_curry",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_world_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_cap_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-shears",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_fluff_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-leather_helmet",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-sinister_tea",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-cocoa_beans",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-music",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_music_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-rage_candy_bar"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_original.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-pewter_crunchies"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_partner.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-lava_cookie"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_hoenn.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-old_gateau"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_sinnoh.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-casteliacone"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_unova.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-lumiose_galette"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_kalos.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-big_malasada"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_alola.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-smoked_tail_curry"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_world.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-compass"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_cap.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-shears"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_fluff.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-leather_helmet"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_harry.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-sinister_tea"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_harry.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-cocoa_beans"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_harry.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-music"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_music.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-rage_candy_bar",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_original_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-pewter_crunchies",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_partner_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-lava_cookie",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_hoenn_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-old_gateau",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_sinnoh_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-casteliacone",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_unova_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-lumiose_galette",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_kalos_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-big_malasada",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_alola_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-smoked_tail_curry",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_world_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-compass",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_cap_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-shears",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_fluff_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-leather_helmet",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-sinister_tea",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-cocoa_beans",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-music",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_music_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-rage_candy_bar",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_original.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-pewter_crunchies",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_partner.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lava_cookie",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_hoenn.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-old_gateau",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_sinnoh.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-casteliacone",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_unova.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lumiose_galette",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_kalos.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-big_malasada",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-smoked_tail_curry",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_world.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_cap.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-shears",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_fluff.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-leather_helmet",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-sinister_tea",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-cocoa_beans",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-music",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_music.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-rage_candy_bar",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_original_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-pewter_crunchies",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_partner_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lava_cookie",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_hoenn_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-old_gateau",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_sinnoh_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-casteliacone",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_unova_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-lumiose_galette",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_kalos_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-big_malasada",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-smoked_tail_curry",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_world_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_cap_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-shears",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_fluff_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-leather_helmet",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-sinister_tea",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-cocoa_beans",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-music",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_music_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-rage_candy_bar",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_original.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-pewter_crunchies",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_partner.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-lava_cookie",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_hoenn.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-old_gateau",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_sinnoh.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-casteliacone",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_unova.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-lumiose_galette",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_kalos.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-big_malasada",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_alola.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-smoked_tail_curry",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_world.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-compass",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_cap.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-shears",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_fluff.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-leather_helmet",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_harry.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-sinister_tea",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_harry.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-cocoa_beans",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_harry.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-music",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_music.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-rage_candy_bar",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_original_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-pewter_crunchies",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_partner_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-lava_cookie",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_hoenn_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-old_gateau",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_sinnoh_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-casteliacone",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_unova_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-lumiose_galette",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_kalos_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-big_malasada",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_alola_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-smoked_tail_curry",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_world_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-compass",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_cap_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-shears",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_fluff_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-leather_helmet",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-sinister_tea",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-cocoa_beans",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-music",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0172_pichu/pichu_alola_bias_music_shiny.png"
+    }
+  ]
+}

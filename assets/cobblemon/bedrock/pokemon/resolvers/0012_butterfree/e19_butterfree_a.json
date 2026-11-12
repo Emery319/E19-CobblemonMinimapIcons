@@ -1,0 +1,94 @@
+{
+  "order": 2,
+  "species": "cobblemon:butterfree",
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0012_butterfree/butterfree_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0012_butterfree/butterfree_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "valencian",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0012_butterfree/butterfree_valencian_female.png"
+    },
+    {
+      "aspects": [
+        "valencian",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0012_butterfree/butterfree_valencian_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0012_butterfree/butterfree.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0012_butterfree/butterfree_shiny.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0012_butterfree/butterfree_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0012_butterfree/butterfree_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "valencian",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0012_butterfree/butterfree_valencian.png"
+    },
+    {
+      "aspects": [
+        "valencian",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0012_butterfree/butterfree_valencian_shiny.png"
+    },
+    {
+      "aspects": [
+        "valencian",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0012_butterfree/butterfree_valencian_female.png"
+    },
+    {
+      "aspects": [
+        "valencian",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0012_butterfree/butterfree_valencian_female_shiny.png"
+    }
+  ]
+}

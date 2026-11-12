@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:gardevoir",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0282_gardevoir/gardevoir.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0282_gardevoir/gardevoir_shiny.png"
+    }
+  ]
+}

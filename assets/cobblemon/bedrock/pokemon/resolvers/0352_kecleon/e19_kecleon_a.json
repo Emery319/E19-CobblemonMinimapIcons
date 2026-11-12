@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:kecleon",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0352_kecleon/kecleon.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0352_kecleon/kecleon_shiny.png"
+    }
+  ]
+}

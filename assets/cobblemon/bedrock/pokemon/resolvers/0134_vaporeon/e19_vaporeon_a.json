@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:vaporeon",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0134_vaporeon/vaporeon.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0134_vaporeon/vaporeon_shiny.png"
+    }
+  ]
+}

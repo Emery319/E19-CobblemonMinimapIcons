@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:arctozolt",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0881_arctozolt/arctozolt.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0881_arctozolt/arctozolt_shiny.png"
+    }
+  ]
+}

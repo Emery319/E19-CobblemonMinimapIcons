@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:seel",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0086_seel/seel.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0086_seel/seel_shiny.png"
+    }
+  ]
+}

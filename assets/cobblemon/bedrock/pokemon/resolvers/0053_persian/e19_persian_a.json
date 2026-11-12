@@ -1,0 +1,34 @@
+{
+  "order": 1,
+  "species": "cobblemon:persian",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0053_persian/persian.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0053_persian/persian_shiny.png"
+    },
+    {
+      "aspects": [
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0053_persian/persian_alolan.png"
+    },
+    {
+      "aspects": [
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0053_persian/persian_alolan_shiny.png"
+    }
+  ]
+}

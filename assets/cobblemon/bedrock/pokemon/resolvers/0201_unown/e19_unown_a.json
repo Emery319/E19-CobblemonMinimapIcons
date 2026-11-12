@@ -1,0 +1,426 @@
+{
+  "order": 0,
+  "species": "cobblemon:unown",
+  "variations": [
+    {
+      "aspects": [
+        "character-a",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_a.png"
+    },
+    {
+      "aspects": [
+        "character-a",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_a_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-b",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_b.png"
+    },
+    {
+      "aspects": [
+        "character-b",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_b_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-c",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_c.png"
+    },
+    {
+      "aspects": [
+        "character-c",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_c_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-d",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_d.png"
+    },
+    {
+      "aspects": [
+        "character-d",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_d_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-e",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_e.png"
+    },
+    {
+      "aspects": [
+        "character-e",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_e_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-f",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_f.png"
+    },
+    {
+      "aspects": [
+        "character-f",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_f_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-g",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_g.png"
+    },
+    {
+      "aspects": [
+        "character-g",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_g_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-h",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_h.png"
+    },
+    {
+      "aspects": [
+        "character-h",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_h_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-i",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_i.png"
+    },
+    {
+      "aspects": [
+        "character-i",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_i_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-j",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_j.png"
+    },
+    {
+      "aspects": [
+        "character-j",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_j_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-k",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_k.png"
+    },
+    {
+      "aspects": [
+        "character-k",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_k_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-l",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_l.png"
+    },
+    {
+      "aspects": [
+        "character-l",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_l_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-m",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_m.png"
+    },
+    {
+      "aspects": [
+        "character-m",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_m_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-n",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_n.png"
+    },
+    {
+      "aspects": [
+        "character-n",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_n_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-o",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_o.png"
+    },
+    {
+      "aspects": [
+        "character-o",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_o_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-p",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_p.png"
+    },
+    {
+      "aspects": [
+        "character-p",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_p_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-q",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_q.png"
+    },
+    {
+      "aspects": [
+        "character-q",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_q_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-r",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_r.png"
+    },
+    {
+      "aspects": [
+        "character-r",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_r_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-s",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_s.png"
+    },
+    {
+      "aspects": [
+        "character-s",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_s_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-t",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_t.png"
+    },
+    {
+      "aspects": [
+        "character-t",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_t_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-u",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_u.png"
+    },
+    {
+      "aspects": [
+        "character-u",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_u_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-v",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_v.png"
+    },
+    {
+      "aspects": [
+        "character-v",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_v_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-w",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_w.png"
+    },
+    {
+      "aspects": [
+        "character-w",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_w_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-x",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_x.png"
+    },
+    {
+      "aspects": [
+        "character-x",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_x_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-y",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_y.png"
+    },
+    {
+      "aspects": [
+        "character-y",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_y_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-z",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_z.png"
+    },
+    {
+      "aspects": [
+        "character-z",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_z_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-?",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_question.png"
+    },
+    {
+      "aspects": [
+        "character-?",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_question_shiny.png"
+    },
+    {
+      "aspects": [
+        "character-!",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_exclamation.png"
+    },
+    {
+      "aspects": [
+        "character-!",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0201_unown/unown_exclamation_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:coalossal",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0839_coalossal/coalossal.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0839_coalossal/coalossal_shiny.png"
+    }
+  ]
+}

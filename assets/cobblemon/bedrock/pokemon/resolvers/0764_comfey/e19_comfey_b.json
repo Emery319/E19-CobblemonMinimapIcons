@@ -1,0 +1,136 @@
+{
+  "order": 5,
+  "species": "cobblemon:comfey",
+  "variations": [
+    {
+      "aspects": [
+        "comfey-flower-red"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_red.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-orange"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_orange.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-yellow"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_yellow.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-green"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_green.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-blue"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_blue.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-purple"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_purple.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-pink"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_pink.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-black"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_black.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-white"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_white.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-null"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_null.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-red",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_red_shiny.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-orange",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_orange_shiny.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-yellow",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_yellow_shiny.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-green",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_green_shiny.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-blue",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_blue_shiny.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-purple",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_purple_shiny.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-pink",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_pink_shiny.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-black",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_black_shiny.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-white",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_white_shiny.png"
+    },
+    {
+      "aspects": [
+        "comfey-flower-null",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0764_comfey/comfey_null_shiny.png"
+    }
+  ]
+}

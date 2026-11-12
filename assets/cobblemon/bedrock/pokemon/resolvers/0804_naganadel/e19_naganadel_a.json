@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:naganadel",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0804_naganadel/naganadel.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0804_naganadel/naganadel_shiny.png"
+    }
+  ]
+}

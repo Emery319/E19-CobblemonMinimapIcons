@@ -1,0 +1,47 @@
+{
+  "order": 0,
+  "species": "cobblemon:braixen",
+  "variations": [
+    {
+      "aspects": [
+        "cosmetic_item-silk_scarf"
+      ],
+      "texture": "cobblemon:textures/pokemon/0654_braixen/braixen_silk_scarf.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-silk_scarf",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0654_braixen/braixen_silk_scarf_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0654_braixen/braixen.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0654_braixen/braixen_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-silk_scarf",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0654_braixen/braixen_silk_scarf.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-silk_scarf",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0654_braixen/braixen_silk_scarf_shiny.png"
+    }
+  ]
+}

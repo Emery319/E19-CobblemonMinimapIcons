@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:bramblin",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0946_bramblin/bramblin.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0946_bramblin/bramblin_shiny.png"
+    }
+  ]
+}

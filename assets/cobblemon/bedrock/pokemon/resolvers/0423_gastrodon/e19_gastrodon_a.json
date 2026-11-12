@@ -1,0 +1,36 @@
+{
+  "order": 1,
+  "species": "cobblemon:gastrodon",
+  "variations": [
+    {
+      "aspects": [
+        "west-sea",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0423_gastrodon/gastrodon_west.png"
+    },
+    {
+      "aspects": [
+        "west-sea",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0423_gastrodon/gastrodon_west_shiny.png"
+    },
+    {
+      "aspects": [
+        "east-sea",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0423_gastrodon/gastrodon_east.png"
+    },
+    {
+      "aspects": [
+        "east-sea",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0423_gastrodon/gastrodon_east_shiny.png"
+    }
+  ]
+}

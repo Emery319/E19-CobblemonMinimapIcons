@@ -1,0 +1,51 @@
+{
+  "order": 0,
+  "species": "cobblemon:tatsugiri",
+  "variations": [
+    {
+      "aspects": [
+        "tatsugiri-texture-curly",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0978_tatsugiri/tatsugiri_curly.png"
+    },
+    {
+      "aspects": [
+        "tatsugiri-texture-droopy",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0978_tatsugiri/tatsugiri_droopy.png"
+    },
+    {
+      "aspects": [
+        "tatsugiri-texture-stretchy",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0978_tatsugiri/tatsugiri_stretchy.png"
+    },
+    {
+      "aspects": [
+        "tatsugiri-texture-curly",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0978_tatsugiri/tatsugiri_curly_shiny.png"
+    },
+    {
+      "aspects": [
+        "tatsugiri-texture-droopy",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0978_tatsugiri/tatsugiri_droopy_shiny.png"
+    },
+    {
+      "aspects": [
+        "tatsugiri-texture-stretchy",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0978_tatsugiri/tatsugiri_stretchy_shiny.png"
+    }
+  ]
+}

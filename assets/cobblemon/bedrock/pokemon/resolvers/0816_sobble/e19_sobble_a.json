@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:sobble",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0816_sobble/sobble.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0816_sobble/sobble_shiny.png"
+    }
+  ]
+}

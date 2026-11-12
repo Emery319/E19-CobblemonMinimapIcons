@@ -1,0 +1,47 @@
+{
+  "order": 0,
+  "species": "cobblemon:delphox",
+  "variations": [
+    {
+      "aspects": [
+        "cosmetic_item-silk_scarf"
+      ],
+      "texture": "cobblemon:textures/pokemon/0655_delphox/delphox_silk_scarf.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-silk_scarf",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0655_delphox/delphox_silk_scarf_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0655_delphox/delphox.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0655_delphox/delphox_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-silk_scarf",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0655_delphox/delphox_silk_scarf.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-silk_scarf",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0655_delphox/delphox_silk_scarf_shiny.png"
+    }
+  ]
+}

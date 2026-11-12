@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:pansage",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0511_pansage/pansage.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0511_pansage/pansage_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "order": 0,
+  "species": "cobblemon:basculin",
+  "variations": [
+    {
+      "aspects": [
+        "whitestriped",
+        "male"
+      ],
+      "texture": "cobblemon:textures/pokemon/0550_basculin/basculin_whitestripe_male.png"
+    },
+    {
+      "aspects": [
+        "whitestriped",
+        "male",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0550_basculin/basculin_whitestripe_male_shiny.png"
+    },
+    {
+      "aspects": [
+        "whitestriped",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0550_basculin/basculin_whitestripe_female.png"
+    },
+    {
+      "aspects": [
+        "whitestriped",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0550_basculin/basculin_whitestripe_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "redstriped",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0550_basculin/basculin_redstripe.png"
+    },
+    {
+      "aspects": [
+        "redstriped",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0550_basculin/basculin_redstripe_shiny.png"
+    },
+    {
+      "aspects": [
+        "bluestriped",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0550_basculin/basculin_bluestripe.png"
+    },
+    {
+      "aspects": [
+        "bluestriped",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0550_basculin/basculin_bluestripe_shiny.png"
+    },
+    {
+      "aspects": [
+        "whitestriped",
+        "male",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0550_basculin/basculin_whitestripe_male.png"
+    },
+    {
+      "aspects": [
+        "whitestriped",
+        "male",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0550_basculin/basculin_whitestripe_male_shiny.png"
+    },
+    {
+      "aspects": [
+        "whitestriped",
+        "female",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0550_basculin/basculin_whitestripe_female.png"
+    },
+    {
+      "aspects": [
+        "whitestriped",
+        "female",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0550_basculin/basculin_whitestripe_female_shiny.png"
+    }
+  ]
+}

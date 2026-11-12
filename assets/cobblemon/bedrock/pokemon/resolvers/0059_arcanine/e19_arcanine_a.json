@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:arcanine",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0059_arcanine/arcanine.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0059_arcanine/arcanine_shiny.png"
+    }
+  ]
+}

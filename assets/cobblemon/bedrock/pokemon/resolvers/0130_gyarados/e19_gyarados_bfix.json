@@ -1,0 +1,21 @@
+{
+  "order": 3,
+  "species": "cobblemon:gyarados",
+  "variations": [
+    {
+      "aspects": [
+        "mega",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0130_gyarados/gyarados_mega.png"
+    },
+    {
+      "aspects": [
+        "mega",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0130_gyarados/gyarados_mega_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "order": 3,
+  "species": "cobblemon:quagsire",
+  "variations": [
+    {
+      "aspects": [
+        "pink-wcolor",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0195_quagsire/quagsire_leucistic_female.png"
+    },
+    {
+      "aspects": [
+        "brown-wcolor",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0195_quagsire/quagsire_wild_female.png"
+    },
+    {
+      "aspects": [
+        "gold-wcolor",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0195_quagsire/quagsire_gold_female.png"
+    },
+    {
+      "aspects": [
+        "cyan-wcolor",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0195_quagsire/quagsire_cyan_female.png"
+    },
+    {
+      "aspects": [
+        "blue-wcolor",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0195_quagsire/quagsire_blue_female.png"
+    },
+    {
+      "aspects": [
+        "pink-wcolor",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0195_quagsire/quagsire_lime_female.png"
+    },
+    {
+      "aspects": [
+        "brown-wcolor",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0195_quagsire/quagsire_lime_female.png"
+    },
+    {
+      "aspects": [
+        "gold-wcolor",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0195_quagsire/quagsire_lime_female.png"
+    },
+    {
+      "aspects": [
+        "cyan-wcolor",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0195_quagsire/quagsire_lime_female.png"
+    },
+    {
+      "aspects": [
+        "blue-wcolor",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0195_quagsire/quagsire_lime_female.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:wyrdeer",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0899_wyrdeer/wyrdeer.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0899_wyrdeer/wyrdeer_shiny.png"
+    }
+  ]
+}

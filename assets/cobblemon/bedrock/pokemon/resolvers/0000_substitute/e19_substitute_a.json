@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:substitute",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/substitute.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/substitute_shiny.png"
+    }
+  ]
+}

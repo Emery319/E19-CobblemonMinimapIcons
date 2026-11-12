@@ -1,0 +1,230 @@
+{
+  "order": 0,
+  "species": "cobblemon:minior",
+  "variations": [
+    {
+      "aspects": [
+        "red-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_red.png"
+    },
+    {
+      "aspects": [
+        "orange-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_orange.png"
+    },
+    {
+      "aspects": [
+        "yellow-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_yellow.png"
+    },
+    {
+      "aspects": [
+        "green-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_green.png"
+    },
+    {
+      "aspects": [
+        "blue-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_blue.png"
+    },
+    {
+      "aspects": [
+        "indigo-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_indigo.png"
+    },
+    {
+      "aspects": [
+        "violet-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_violet.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_shiny.png"
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "red-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_meteor_red.png"
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "orange-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_meteor_orange.png"
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "yellow-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_meteor_yellow.png"
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "green-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_meteor_green.png"
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "blue-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_meteor_blue.png"
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "indigo-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_meteor_indigo.png"
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "violet-core"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_meteor_violet.png"
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_meteor_shiny.png"
+    },
+    {
+      "aspects": [
+        "red-core",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0774_minior/minior_red.png"
+    },
+    {
+      "aspects": [
+        "orange-core",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0774_minior/minior_orange.png"
+    },
+    {
+      "aspects": [
+        "yellow-core",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0774_minior/minior_yellow.png"
+    },
+    {
+      "aspects": [
+        "green-core",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0774_minior/minior_green.png"
+    },
+    {
+      "aspects": [
+        "blue-core",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0774_minior/minior_blue.png"
+    },
+    {
+      "aspects": [
+        "indigo-core",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0774_minior/minior_indigo.png"
+    },
+    {
+      "aspects": [
+        "violet-core",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0774_minior/minior_violet.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0774_minior/minior_shiny.png"
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "red-core",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0774_minior/minior_meteor_red.png"
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "orange-core",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0774_minior/minior_meteor_orange.png"
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "yellow-core",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0774_minior/minior_meteor_yellow.png"
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "green-core",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0774_minior/minior_meteor_green.png"
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "blue-core",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0774_minior/minior_meteor_blue.png"
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "indigo-core",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0774_minior/minior_meteor_indigo.png"
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "violet-core",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0774_minior/minior_meteor_violet.png"
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0774_minior/minior_meteor_shiny.png"
+    }
+  ]
+}

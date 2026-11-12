@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:finneon",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0456_finneon/finneon.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0456_finneon/finneon_shiny.png"
+    }
+  ]
+}

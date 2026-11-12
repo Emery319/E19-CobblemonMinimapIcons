@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:carvanha",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0318_carvanha/carvanha.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0318_carvanha/carvanha_shiny.png"
+    }
+  ]
+}

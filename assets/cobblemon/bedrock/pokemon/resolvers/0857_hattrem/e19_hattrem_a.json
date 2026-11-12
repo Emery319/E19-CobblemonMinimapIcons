@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:hattrem",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0857_hattrem/hattrem.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0857_hattrem/hattrem_shiny.png"
+    }
+  ]
+}

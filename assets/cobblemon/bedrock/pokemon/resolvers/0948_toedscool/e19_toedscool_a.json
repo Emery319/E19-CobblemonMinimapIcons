@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:toedscool",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0948_toedscool/toedscool.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0948_toedscool/toedscool_shiny.png"
+    }
+  ]
+}

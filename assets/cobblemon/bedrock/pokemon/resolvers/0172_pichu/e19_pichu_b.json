@@ -1,0 +1,32 @@
+{
+  "order": 2,
+  "species": "cobblemon:pichu",
+  "variations": [
+    {
+      "aspects": [
+        "cosmetic_item-ancient_light_ball"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_spikey.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "cosmetic_item-ancient_light_ball"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_spikey_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-atmxmsd"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_spikey.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "cosmetic_item-atmxmsd"
+      ],
+      "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_spikey_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:dolliv",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0929_dolliv/dolliv.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0929_dolliv/dolliv_shiny.png"
+    }
+  ]
+}

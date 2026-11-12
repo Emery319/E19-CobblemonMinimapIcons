@@ -1,0 +1,47 @@
+{
+  "order": 1,
+  "species": "cobblemon:sinistcha",
+  "variations": [
+    {
+      "aspects": [
+        "masterpiece"
+      ],
+      "texture": "cobblemon:textures/pokemon/1013_sinistcha/sinistcha_masterpiece.png"
+    },
+    {
+      "aspects": [
+        "masterpiece",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1013_sinistcha/sinistcha_masterpiece_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/1013_sinistcha/sinistcha.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/1013_sinistcha/sinistcha_shiny.png"
+    },
+    {
+      "aspects": [
+        "masterpiece",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/1013_sinistcha/sinistcha_masterpiece.png"
+    },
+    {
+      "aspects": [
+        "masterpiece",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/1013_sinistcha/sinistcha_masterpiece_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:ironleaves",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/1010_ironleaves/ironleaves.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/1010_ironleaves/ironleaves_shiny.png"
+    }
+  ]
+}

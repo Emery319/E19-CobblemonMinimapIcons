@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:seadra",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0117_seadra/seadra.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0117_seadra/seadra_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:incineroar",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0727_incineroar/incineroar.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0727_incineroar/incineroar_shiny.png"
+    }
+  ]
+}

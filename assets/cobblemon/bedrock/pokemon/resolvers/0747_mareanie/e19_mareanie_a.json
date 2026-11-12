@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:mareanie",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0747_mareanie/mareanie.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0747_mareanie/mareanie_shiny.png"
+    }
+  ]
+}

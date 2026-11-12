@@ -1,0 +1,81 @@
+{
+  "order": 3,
+  "species": "cobblemon:wooper",
+  "variations": [
+    {
+      "aspects": [
+        "pink-wcolor",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_leucistic_female.png"
+    },
+    {
+      "aspects": [
+        "brown-wcolor",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_wild_female.png"
+    },
+    {
+      "aspects": [
+        "gold-wcolor",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_gold_female.png"
+    },
+    {
+      "aspects": [
+        "cyan-wcolor",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_cyan_female.png"
+    },
+    {
+      "aspects": [
+        "blue-wcolor",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_blue_female.png"
+    },
+    {
+      "aspects": [
+        "pink-wcolor",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_lime_female.png"
+    },
+    {
+      "aspects": [
+        "brown-wcolor",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_lime_female.png"
+    },
+    {
+      "aspects": [
+        "gold-wcolor",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_lime_female.png"
+    },
+    {
+      "aspects": [
+        "cyan-wcolor",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_lime_female.png"
+    },
+    {
+      "aspects": [
+        "blue-wcolor",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_lime_female.png"
+    }
+  ]
+}

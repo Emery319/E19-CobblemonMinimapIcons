@@ -1,0 +1,51 @@
+{
+  "order": 2,
+  "species": "cobblemon:lycanroc",
+  "variations": [
+    {
+      "aspects": [
+        "midday-form",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0745_lycanroc/lycanroc_midday.png"
+    },
+    {
+      "aspects": [
+        "midday-form",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0745_lycanroc/lycanroc_midday_shiny.png"
+    },
+    {
+      "aspects": [
+        "midnight-form",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0745_lycanroc/lycanroc_midnight.png"
+    },
+    {
+      "aspects": [
+        "midnight-form",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0745_lycanroc/lycanroc_midnight_shiny.png"
+    },
+    {
+      "aspects": [
+        "dusk-form",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0745_lycanroc/lycanroc_dusk.png"
+    },
+    {
+      "aspects": [
+        "dusk-form",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0745_lycanroc/lycanroc_dusk_shiny.png"
+    }
+  ]
+}

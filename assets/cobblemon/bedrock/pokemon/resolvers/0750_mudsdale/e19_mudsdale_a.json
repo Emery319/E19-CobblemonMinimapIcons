@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:mudsdale",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0750_mudsdale/mudsdale.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0750_mudsdale/mudsdale_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:carbink",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0703_carbink/carbink.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0703_carbink/carbink_shiny.png"
+    }
+  ]
+}

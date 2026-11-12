@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:dusclops",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0356_dusclops/dusclops.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0356_dusclops/dusclops_shiny.png"
+    }
+  ]
+}

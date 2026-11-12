@@ -1,0 +1,35 @@
+{
+  "order": 0,
+  "species": "cobblemon:golurk",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": {
+        "fps": 10,
+        "frames": [
+          "cobblemon:textures/alpha/0623_golurk/golurk_1.png",
+          "cobblemon:textures/alpha/0623_golurk/golurk_2.png",
+          "cobblemon:textures/alpha/0623_golurk/golurk_3.png"
+        ],
+        "loop": true
+      }
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": {
+        "fps": 10,
+        "frames": [
+          "cobblemon:textures/alpha/0623_golurk/golurk_shiny_1.png",
+          "cobblemon:textures/alpha/0623_golurk/golurk_shiny_2.png",
+          "cobblemon:textures/alpha/0623_golurk/golurk_shiny_3.png"
+        ],
+        "loop": true
+      }
+    }
+  ]
+}

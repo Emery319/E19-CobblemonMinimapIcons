@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:minccino",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0572_minccino/minccino.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0572_minccino/minccino_shiny.png"
+    }
+  ]
+}

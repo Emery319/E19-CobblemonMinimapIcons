@@ -1,0 +1,19 @@
+{
+  "order": 1,
+  "species": "cobblemon:mewtwo",
+  "variations": [
+    {
+      "aspects": [
+        "armored"
+      ],
+      "texture": "cobblemon:textures/pokemon/0150_mewtwo/mewtwo_armor.png"
+    },
+    {
+      "aspects": [
+        "armored",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0150_mewtwo/mewtwo_armor_shiny.png"
+    }
+  ]
+}

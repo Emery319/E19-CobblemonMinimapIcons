@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:togedemaru",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0777_togedemaru/togedemaru.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0777_togedemaru/togedemaru_shiny.png"
+    }
+  ]
+}

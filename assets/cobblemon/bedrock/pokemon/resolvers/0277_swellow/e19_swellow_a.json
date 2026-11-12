@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:swellow",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0277_swellow/swellow.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0277_swellow/swellow_shiny.png"
+    }
+  ]
+}

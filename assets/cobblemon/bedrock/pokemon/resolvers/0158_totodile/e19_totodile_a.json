@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:totodile",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0158_totodile/totodile.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0158_totodile/totodile_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "order": 1,
+  "species": "cobblemon:abomasnow",
+  "variations": [
+    {
+      "aspects": [
+        "mega",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0460_abomasnow/abomasnow_mega.png"
+    },
+    {
+      "aspects": [
+        "mega",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0460_abomasnow/abomasnow_mega_shiny.png"
+    }
+  ]
+}

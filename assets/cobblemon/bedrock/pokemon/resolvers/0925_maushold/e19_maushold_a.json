@@ -1,0 +1,47 @@
+{
+  "order": 0,
+  "species": "cobblemon:maushold",
+  "variations": [
+    {
+      "aspects": [
+        "maushold-family-four"
+      ],
+      "texture": "cobblemon:textures/pokemon/0925_maushold/maushold_four.png"
+    },
+    {
+      "aspects": [
+        "maushold-family-four",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0925_maushold/maushold_four_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0925_maushold/maushold.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0925_maushold/maushold_shiny.png"
+    },
+    {
+      "aspects": [
+        "maushold-family-four",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0925_maushold/maushold_four.png"
+    },
+    {
+      "aspects": [
+        "maushold-family-four",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0925_maushold/maushold_four_shiny.png"
+    }
+  ]
+}

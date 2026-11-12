@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:fidough",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0926_fidough/fidough.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0926_fidough/fidough_shiny.png"
+    }
+  ]
+}

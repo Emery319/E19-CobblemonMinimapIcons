@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:gossifleur",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0829_gossifleur/gossifleur.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0829_gossifleur/gossifleur_shiny.png"
+    }
+  ]
+}

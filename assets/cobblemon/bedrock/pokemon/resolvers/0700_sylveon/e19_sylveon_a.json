@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:sylveon",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0700_sylveon/sylveon.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0700_sylveon/sylveon_shiny.png"
+    }
+  ]
+}

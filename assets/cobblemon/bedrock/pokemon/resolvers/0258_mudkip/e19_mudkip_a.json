@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:mudkip",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0258_mudkip/mudkip.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0258_mudkip/mudkip_shiny.png"
+    }
+  ]
+}

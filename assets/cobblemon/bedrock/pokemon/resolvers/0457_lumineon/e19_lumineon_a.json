@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:lumineon",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0457_lumineon/lumineon.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0457_lumineon/lumineon_shiny.png"
+    }
+  ]
+}

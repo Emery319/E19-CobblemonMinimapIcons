@@ -1,0 +1,47 @@
+{
+  "order": 1,
+  "species": "cobblemon:rowlet",
+  "variations": [
+    {
+      "aspects": [
+        "region-bias-hisui"
+      ],
+      "texture": "cobblemon:textures/pokemon/0722_rowlet/rowlet_hisui_bias.png"
+    },
+    {
+      "aspects": [
+        "region-bias-hisui",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0722_rowlet/rowlet_hisui_bias_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0722_rowlet/rowlet.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0722_rowlet/rowlet_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-hisui",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0722_rowlet/rowlet_hisui_bias.png"
+    },
+    {
+      "aspects": [
+        "region-bias-hisui",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0722_rowlet/rowlet_hisui_bias_shiny.png"
+    }
+  ]
+}

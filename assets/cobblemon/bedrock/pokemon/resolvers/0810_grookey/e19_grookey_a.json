@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:grookey",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0810_grookey/grookey.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0810_grookey/grookey_shiny.png"
+    }
+  ]
+}

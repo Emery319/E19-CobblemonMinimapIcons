@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:togekiss",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0468_togekiss/togekiss.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0468_togekiss/togekiss_shiny.png"
+    }
+  ]
+}

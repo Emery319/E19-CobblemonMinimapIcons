@@ -1,0 +1,34 @@
+{
+  "order": 1,
+  "species": "cobblemon:goodra",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0706_goodra/goodra.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0706_goodra/goodra_shiny.png"
+    },
+    {
+      "aspects": [
+        "hisuian",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0706_goodra/goodra_hisuian.png"
+    },
+    {
+      "aspects": [
+        "hisuian",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0706_goodra/goodra_hisuian_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:toxel",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0848_toxel/toxel.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0848_toxel/toxel_shiny.png"
+    }
+  ]
+}

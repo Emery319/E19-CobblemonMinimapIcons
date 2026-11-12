@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:magmortar",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0467_magmortar/magmortar.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0467_magmortar/magmortar_shiny.png"
+    }
+  ]
+}

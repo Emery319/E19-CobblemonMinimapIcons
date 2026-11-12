@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:tangela",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0114_tangela/tangela.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0114_tangela/tangela_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:shieldon",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0410_shieldon/shieldon.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0410_shieldon/shieldon_shiny.png"
+    }
+  ]
+}

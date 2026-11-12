@@ -1,0 +1,105 @@
+{
+  "order": 3,
+  "species": "cobblemon:gourgeist",
+  "variations": [
+    {
+      "aspects": [
+        "pumpkin-size-small"
+      ],
+      "texture": "cobblemon:textures/pokemon/0711_gourgeist/gourgeist_small.png"
+    },
+    {
+      "aspects": [
+        "pumpkin-size-large"
+      ],
+      "texture": "cobblemon:textures/pokemon/0711_gourgeist/gourgeist_large.png"
+    },
+    {
+      "aspects": [
+        "pumpkin-size-super"
+      ],
+      "texture": "cobblemon:textures/pokemon/0711_gourgeist/gourgeist_super.png"
+    },
+    {
+      "aspects": [
+        "pumpkin-size-small",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0711_gourgeist/gourgeist_small_shiny.png"
+    },
+    {
+      "aspects": [
+        "pumpkin-size-large",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0711_gourgeist/gourgeist_large_shiny.png"
+    },
+    {
+      "aspects": [
+        "pumpkin-size-super",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0711_gourgeist/gourgeist_super_shiny.png"
+    },
+    {
+      "aspects": [
+        "pumpkin-size-average",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0711_gourgeist/gourgeist.png"
+    },
+    {
+      "aspects": [
+        "pumpkin-size-small",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0711_gourgeist/gourgeist_small.png"
+    },
+    {
+      "aspects": [
+        "pumpkin-size-large",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0711_gourgeist/gourgeist_large.png"
+    },
+    {
+      "aspects": [
+        "pumpkin-size-super",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0711_gourgeist/gourgeist_super.png"
+    },
+    {
+      "aspects": [
+        "pumpkin-size-average",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0711_gourgeist/gourgeist_shiny.png"
+    },
+    {
+      "aspects": [
+        "pumpkin-size-small",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0711_gourgeist/gourgeist_small_shiny.png"
+    },
+    {
+      "aspects": [
+        "pumpkin-size-large",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0711_gourgeist/gourgeist_large_shiny.png"
+    },
+    {
+      "aspects": [
+        "pumpkin-size-super",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0711_gourgeist/gourgeist_super_shiny.png"
+    }
+  ]
+}

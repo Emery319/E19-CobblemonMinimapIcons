@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:milcery",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0868_milcery/milcery.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0868_milcery/milcery_shiny.png"
+    }
+  ]
+}

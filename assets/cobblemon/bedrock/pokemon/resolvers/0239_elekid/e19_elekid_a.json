@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:elekid",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0239_elekid/elekid.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0239_elekid/elekid_shiny.png"
+    }
+  ]
+}

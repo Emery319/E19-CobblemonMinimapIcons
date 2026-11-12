@@ -1,0 +1,36 @@
+{
+  "order": 1,
+  "species": "cobblemon:clauncher",
+  "variations": [
+    {
+      "aspects": [
+        "claw-left",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0692_clauncher/clauncher_left.png"
+    },
+    {
+      "aspects": [
+        "claw-left",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0692_clauncher/clauncher_left_shiny.png"
+    },
+    {
+      "aspects": [
+        "claw-right",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0692_clauncher/clauncher_right.png"
+    },
+    {
+      "aspects": [
+        "claw-right",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0692_clauncher/clauncher_right_shiny.png"
+    }
+  ]
+}

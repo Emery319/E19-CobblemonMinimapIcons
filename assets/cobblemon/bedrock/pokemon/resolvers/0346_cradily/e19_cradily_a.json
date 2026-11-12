@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:cradily",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0346_cradily/cradily.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0346_cradily/cradily_shiny.png"
+    }
+  ]
+}

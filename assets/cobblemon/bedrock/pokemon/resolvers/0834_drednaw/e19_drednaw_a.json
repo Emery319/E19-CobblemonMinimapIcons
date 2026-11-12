@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:drednaw",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0834_drednaw/drednaw.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0834_drednaw/drednaw_shiny.png"
+    }
+  ]
+}

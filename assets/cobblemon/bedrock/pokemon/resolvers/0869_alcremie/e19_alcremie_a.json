@@ -1,0 +1,1056 @@
+{
+  "order": 0,
+  "species": "cobblemon:alcremie",
+  "variations": [
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-vanilla"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_strawberry_vanilla.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-ruby"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_strawberry_ruby.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-matcha"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_strawberry_matcha.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-mint"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_strawberry_mint.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-lemon"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_strawberry_lemon.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-salted"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_strawberry_salted.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-ruby_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_strawberry_rubyswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-caramel_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_strawberry_caramel.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-rainbow_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_strawberry_rainbowswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_strawberry_shiny.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-vanilla"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_berry_vanilla.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-ruby"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_berry_ruby.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-matcha"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_berry_matcha.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-mint"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_berry_mint.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-lemon"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_berry_lemon.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-salted"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_berry_salted.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-ruby_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_berry_rubyswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-caramel_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_berry_caramel.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-rainbow_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_berry_rainbowswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_berry_shiny.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-vanilla"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_vanilla.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-ruby"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_ruby.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-matcha"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_matcha.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-mint"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_mint.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-lemon"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_lemon.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-salted"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_salted.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-ruby_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_rubyswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-caramel_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_caramel.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-rainbow_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_rainbowswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_shiny.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-vanilla"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_star_vanilla.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-ruby"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_star_ruby.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-matcha"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_star_matcha.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-mint"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_star_mint.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-lemon"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_star_lemon.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-salted"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_star_salted.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-ruby_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_star_rubyswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-caramel_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_star_caramel.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-rainbow_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_star_rainbowswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_star_shiny.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-vanilla"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_clover_vanilla.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-ruby"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_clover_ruby.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-matcha"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_clover_matcha.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-mint"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_clover_mint.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-lemon"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_clover_lemon.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-salted"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_clover_salted.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-ruby_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_clover_rubyswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-caramel_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_clover_caramel.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-rainbow_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_clover_rainbowswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_clover_shiny.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-vanilla"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_flower_vanilla.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-ruby"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_flower_ruby.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-matcha"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_flower_matcha.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-mint"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_flower_mint.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-lemon"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_flower_lemon.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-salted"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_flower_salted.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-ruby_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_flower_rubyswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-caramel_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_flower_caramel.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-rainbow_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_flower_rainbowswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_flower_shiny.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-vanilla"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_ribbon_vanilla.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-ruby"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_ribbon_ruby.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-matcha"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_ribbon_matcha.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-mint"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_ribbon_mint.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-lemon"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_ribbon_lemon.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-salted"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_ribbon_salted.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-ruby_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_ribbon_rubyswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-caramel_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_ribbon_caramel.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-rainbow_swirl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_ribbon_rainbowswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_ribbon_shiny.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-vanilla",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_strawberry_vanilla.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-ruby",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_strawberry_ruby.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-matcha",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_strawberry_matcha.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-mint",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_strawberry_mint.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-lemon",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_strawberry_lemon.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-salted",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_strawberry_salted.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-ruby_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_strawberry_rubyswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-caramel_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_strawberry_caramel.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "cream-rainbow_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_strawberry_rainbowswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-strawberry",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_strawberry_shiny.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-vanilla",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_berry_vanilla.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-ruby",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_berry_ruby.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-matcha",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_berry_matcha.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-mint",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_berry_mint.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-lemon",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_berry_lemon.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-salted",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_berry_salted.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-ruby_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_berry_rubyswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-caramel_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_berry_caramel.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "cream-rainbow_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_berry_rainbowswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-berry",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_berry_shiny.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-vanilla",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_heart_vanilla.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-ruby",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_heart_ruby.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-matcha",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_heart_matcha.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-mint",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_heart_mint.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-lemon",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_heart_lemon.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-salted",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_heart_salted.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-ruby_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_heart_rubyswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-caramel_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_heart_caramel.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "cream-rainbow_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_heart_rainbowswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-love",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_heart_shiny.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-vanilla",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_star_vanilla.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-ruby",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_star_ruby.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-matcha",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_star_matcha.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-mint",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_star_mint.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-lemon",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_star_lemon.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-salted",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_star_salted.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-ruby_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_star_rubyswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-caramel_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_star_caramel.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "cream-rainbow_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_star_rainbowswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-star",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_star_shiny.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-vanilla",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_clover_vanilla.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-ruby",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_clover_ruby.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-matcha",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_clover_matcha.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-mint",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_clover_mint.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-lemon",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_clover_lemon.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-salted",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_clover_salted.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-ruby_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_clover_rubyswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-caramel_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_clover_caramel.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "cream-rainbow_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_clover_rainbowswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-clover",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_clover_shiny.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-vanilla",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_flower_vanilla.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-ruby",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_flower_ruby.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-matcha",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_flower_matcha.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-mint",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_flower_mint.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-lemon",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_flower_lemon.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-salted",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_flower_salted.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-ruby_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_flower_rubyswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-caramel_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_flower_caramel.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "cream-rainbow_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_flower_rainbowswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-flower",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_flower_shiny.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-vanilla",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_ribbon_vanilla.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-ruby",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_ribbon_ruby.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-matcha",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_ribbon_matcha.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-mint",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_ribbon_mint.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-lemon",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_ribbon_lemon.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-salted",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_ribbon_salted.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-ruby_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_ribbon_rubyswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-caramel_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_ribbon_caramel.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "cream-rainbow_swirl",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_ribbon_rainbowswirl.png"
+    },
+    {
+      "aspects": [
+        "decoration-ribbon",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0869_alcremie/alcremie_ribbon_shiny.png"
+    }
+  ]
+}

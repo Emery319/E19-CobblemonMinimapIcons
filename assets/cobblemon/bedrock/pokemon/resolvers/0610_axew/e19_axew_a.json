@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:axew",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0610_axew/axew.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0610_axew/axew_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "order": 1,
+  "species": "cobblemon:gimmighoul",
+  "variations": [
+    {
+      "aspects": [
+        "red-gilded-chest"
+      ],
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_red.png"
+    },
+    {
+      "aspects": [
+        "yellow-gilded-chest"
+      ],
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_yellow.png"
+    },
+    {
+      "aspects": [
+        "green-gilded-chest"
+      ],
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_green.png"
+    },
+    {
+      "aspects": [
+        "blue-gilded-chest"
+      ],
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_blue.png"
+    },
+    {
+      "aspects": [
+        "pink-gilded-chest"
+      ],
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_pink.png"
+    },
+    {
+      "aspects": [
+        "black-gilded-chest"
+      ],
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_black.png"
+    },
+    {
+      "aspects": [
+        "white-gilded-chest"
+      ],
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_white.png"
+    },
+    {
+      "aspects": [
+        "red-gilded-chest",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_red_shiny.png"
+    },
+    {
+      "aspects": [
+        "yellow-gilded-chest",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_yellow_shiny.png"
+    },
+    {
+      "aspects": [
+        "green-gilded-chest",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_green_shiny.png"
+    },
+    {
+      "aspects": [
+        "blue-gilded-chest",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_blue_shiny.png"
+    },
+    {
+      "aspects": [
+        "pink-gilded-chest",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_pink_shiny.png"
+    },
+    {
+      "aspects": [
+        "black-gilded-chest",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_black_shiny.png"
+    },
+    {
+      "aspects": [
+        "white-gilded-chest",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0999_gimmighoul/gimmighoul_white_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_chest.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_chest_shiny.png"
+    },
+    {
+      "aspects": [
+        "minecraft",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_chest_minecraft.png"
+    },
+    {
+      "aspects": [
+        "minecraft",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_chest_minecraft_shiny.png"
+    },
+    {
+      "aspects": [
+        "red-gilded-chest",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_red.png"
+    },
+    {
+      "aspects": [
+        "yellow-gilded-chest",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_yellow.png"
+    },
+    {
+      "aspects": [
+        "green-gilded-chest",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_green.png"
+    },
+    {
+      "aspects": [
+        "blue-gilded-chest",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_blue.png"
+    },
+    {
+      "aspects": [
+        "pink-gilded-chest",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_pink.png"
+    },
+    {
+      "aspects": [
+        "black-gilded-chest",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_black.png"
+    },
+    {
+      "aspects": [
+        "white-gilded-chest",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_white.png"
+    },
+    {
+      "aspects": [
+        "red-gilded-chest",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_red_shiny.png"
+    },
+    {
+      "aspects": [
+        "yellow-gilded-chest",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_yellow_shiny.png"
+    },
+    {
+      "aspects": [
+        "green-gilded-chest",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_green_shiny.png"
+    },
+    {
+      "aspects": [
+        "blue-gilded-chest",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_blue_shiny.png"
+    },
+    {
+      "aspects": [
+        "pink-gilded-chest",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_pink_shiny.png"
+    },
+    {
+      "aspects": [
+        "black-gilded-chest",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_black_shiny.png"
+    },
+    {
+      "aspects": [
+        "white-gilded-chest",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_white_shiny.png"
+    },
+    {
+      "aspects": [
+        "roaming",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_roaming.png"
+    },
+    {
+      "aspects": [
+        "roaming",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0999_gimmighoul/gimmighoul_roaming_shiny.png"
+    }
+  ]
+}

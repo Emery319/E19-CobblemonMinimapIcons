@@ -1,0 +1,34 @@
+{
+  "order": 1,
+  "species": "cobblemon:rapidash",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0078_rapidash/rapidash.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0078_rapidash/rapidash_shiny.png"
+    },
+    {
+      "aspects": [
+        "galarian",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0078_rapidash/rapidash_galar.png"
+    },
+    {
+      "aspects": [
+        "galarian",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0078_rapidash/rapidash_galar_shiny.png"
+    }
+  ]
+}

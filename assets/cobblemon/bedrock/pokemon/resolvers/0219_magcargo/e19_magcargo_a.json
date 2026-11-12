@@ -1,0 +1,19 @@
+{
+  "order": 1,
+  "species": "cobblemon:magcargo",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0219_magcargo/magcargo.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0219_magcargo/magcargo_shiny.png"
+    }
+  ]
+}

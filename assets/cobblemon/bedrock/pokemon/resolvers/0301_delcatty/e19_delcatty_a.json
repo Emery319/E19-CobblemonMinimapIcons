@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:delcatty",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0301_delcatty/delcatty.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0301_delcatty/delcatty_shiny.png"
+    }
+  ]
+}

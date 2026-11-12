@@ -1,0 +1,299 @@
+{
+  "order": 0,
+  "species": "cobblemon:timburr",
+  "variations": [
+    {
+      "aspects": [
+        "tree-oak"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_oak.png"
+    },
+    {
+      "aspects": [
+        "tree-spruce"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_spruce.png"
+    },
+    {
+      "aspects": [
+        "tree-acacia"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_acacia.png"
+    },
+    {
+      "aspects": [
+        "tree-birch"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_birch.png"
+    },
+    {
+      "aspects": [
+        "tree-darkoak"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_dark_oak.png"
+    },
+    {
+      "aspects": [
+        "tree-jungle"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_jungle.png"
+    },
+    {
+      "aspects": [
+        "tree-mangrove"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_mangrove.png"
+    },
+    {
+      "aspects": [
+        "tree-crimson"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_crimson.png"
+    },
+    {
+      "aspects": [
+        "tree-warped"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_warped.png"
+    },
+    {
+      "aspects": [
+        "tree-saccharine"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_saccharine.png"
+    },
+    {
+      "aspects": [
+        "tree-oak",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_oak_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-spruce",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_spruce_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-acacia",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_acacia_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-birch",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_birch_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-darkoak",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_dark_oak_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-jungle",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_jungle_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-mangrove",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_mangrove_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-crimson",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_crimson_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-warped",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_warped_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-saccharine",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_saccharine_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-oak",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_oak.png"
+    },
+    {
+      "aspects": [
+        "tree-spruce",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_spruce.png"
+    },
+    {
+      "aspects": [
+        "tree-acacia",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_acacia.png"
+    },
+    {
+      "aspects": [
+        "tree-birch",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_birch.png"
+    },
+    {
+      "aspects": [
+        "tree-darkoak",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_dark_oak.png"
+    },
+    {
+      "aspects": [
+        "tree-jungle",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_jungle.png"
+    },
+    {
+      "aspects": [
+        "tree-mangrove",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_mangrove.png"
+    },
+    {
+      "aspects": [
+        "tree-crimson",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_crimson.png"
+    },
+    {
+      "aspects": [
+        "tree-warped",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_warped.png"
+    },
+    {
+      "aspects": [
+        "tree-saccharine",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_saccharine.png"
+    },
+    {
+      "aspects": [
+        "tree-oak",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_oak_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-spruce",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_spruce_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-acacia",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_acacia_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-birch",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_birch_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-darkoak",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_dark_oak_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-jungle",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_jungle_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-mangrove",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_mangrove_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-crimson",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_crimson_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-warped",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_warped_shiny.png"
+    },
+    {
+      "aspects": [
+        "tree-saccharine",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0532_timburr/timburr_tree_saccharine_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:sableye",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0302_sableye/sableye.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0302_sableye/sableye_shiny.png"
+    }
+  ]
+}

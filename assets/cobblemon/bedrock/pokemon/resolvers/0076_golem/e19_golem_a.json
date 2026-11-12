@@ -1,0 +1,34 @@
+{
+  "order": 1,
+  "species": "cobblemon:golem",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0076_golem/golem.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0076_golem/golem_shiny.png"
+    },
+    {
+      "aspects": [
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0076_golem/golem_alolan.png"
+    },
+    {
+      "aspects": [
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0076_golem/golem_alolan_shiny.png"
+    }
+  ]
+}

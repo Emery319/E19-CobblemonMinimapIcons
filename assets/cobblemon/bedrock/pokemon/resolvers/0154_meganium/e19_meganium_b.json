@@ -1,0 +1,136 @@
+{
+  "order": 5,
+  "species": "cobblemon:meganium",
+  "variations": [
+    {
+      "aspects": [
+        "meganium-flower-red"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_red.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-orange"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_orange.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-yellow"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_yellow.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-green"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_green.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-cyan"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_cyan.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-blue"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_blue.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-purple"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_purple.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-pink"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_pink.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-white"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_white.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-black"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_black.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-red",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_red_shiny.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-orange",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_orange_shiny.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-yellow",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_yellow_shiny.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-green",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_green_shiny.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-cyan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_cyan_shiny.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-blue",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_blue_shiny.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-purple",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_purple_shiny.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-pink",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_pink_shiny.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-white",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_white_shiny.png"
+    },
+    {
+      "aspects": [
+        "meganium-flower-black",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_black_shiny.png"
+    }
+  ]
+}

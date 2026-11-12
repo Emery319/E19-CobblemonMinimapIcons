@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:dhelmise",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0781_dhelmise/dhelmise.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0781_dhelmise/dhelmise_shiny.png"
+    }
+  ]
+}

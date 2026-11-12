@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:kilowattrel",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0941_kilowattrel/kilowattrel.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0941_kilowattrel/kilowattrel_shiny.png"
+    }
+  ]
+}

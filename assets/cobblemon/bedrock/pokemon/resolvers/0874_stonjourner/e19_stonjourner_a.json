@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:stonjourner",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0874_stonjourner/stonjourner.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0874_stonjourner/stonjourner_shiny.png"
+    }
+  ]
+}

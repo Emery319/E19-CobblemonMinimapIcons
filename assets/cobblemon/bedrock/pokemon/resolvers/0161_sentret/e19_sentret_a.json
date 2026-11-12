@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:sentret",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0161_sentret/sentret.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0161_sentret/sentret_shiny.png"
+    }
+  ]
+}

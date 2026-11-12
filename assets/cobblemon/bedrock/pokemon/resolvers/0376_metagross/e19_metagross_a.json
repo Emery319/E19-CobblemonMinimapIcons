@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:metagross",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0376_metagross/metagross.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0376_metagross/metagross_shiny.png"
+    }
+  ]
+}

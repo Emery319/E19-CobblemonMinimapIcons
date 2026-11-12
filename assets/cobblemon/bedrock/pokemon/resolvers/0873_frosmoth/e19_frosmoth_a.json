@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:frosmoth",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0873_frosmoth/frosmoth.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0873_frosmoth/frosmoth_shiny.png"
+    }
+  ]
+}

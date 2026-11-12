@@ -1,0 +1,49 @@
+{
+  "order": 2,
+  "species": "cobblemon:meowth",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0052_meowth/meowth.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0052_meowth/meowth_shiny.png"
+    },
+    {
+      "aspects": [
+        "galarian",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0052_meowth/meowth_galarian.png"
+    },
+    {
+      "aspects": [
+        "galarian",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0052_meowth/meowth_galarian_shiny.png"
+    },
+    {
+      "aspects": [
+        "alolan",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0052_meowth/meowth_alolan.png"
+    },
+    {
+      "aspects": [
+        "alolan",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0052_meowth/meowth_alolan_shiny.png"
+    }
+  ]
+}

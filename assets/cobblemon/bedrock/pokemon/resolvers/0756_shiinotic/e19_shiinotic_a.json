@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:shiinotic",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0756_shiinotic/shiinotic.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0756_shiinotic/shiinotic_shiny.png"
+    }
+  ]
+}

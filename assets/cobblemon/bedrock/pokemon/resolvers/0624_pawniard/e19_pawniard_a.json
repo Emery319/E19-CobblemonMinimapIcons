@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:pawniard",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0624_pawniard/pawniard.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0624_pawniard/pawniard_shiny.png"
+    }
+  ]
+}

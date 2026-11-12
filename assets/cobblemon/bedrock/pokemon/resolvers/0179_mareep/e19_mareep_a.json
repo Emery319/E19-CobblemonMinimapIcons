@@ -1,0 +1,47 @@
+{
+  "order": 0,
+  "species": "cobblemon:mareep",
+  "variations": [
+    {
+      "aspects": [
+        "sheared"
+      ],
+      "texture": "cobblemon:textures/pokemon/0179_mareep/mareep_sheared.png"
+    },
+    {
+      "aspects": [
+        "sheared",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0179_mareep/mareep_sheared_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0179_mareep/mareep.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0179_mareep/mareep_shiny.png"
+    },
+    {
+      "aspects": [
+        "sheared",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0179_mareep/mareep_sheared.png"
+    },
+    {
+      "aspects": [
+        "sheared",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0179_mareep/mareep_sheared_shiny.png"
+    }
+  ]
+}

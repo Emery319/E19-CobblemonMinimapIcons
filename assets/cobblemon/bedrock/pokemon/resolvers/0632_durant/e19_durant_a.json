@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:durant",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0632_durant/durant.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0632_durant/durant_shiny.png"
+    }
+  ]
+}

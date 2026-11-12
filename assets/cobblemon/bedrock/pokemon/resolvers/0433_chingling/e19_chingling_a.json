@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:chingling",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0433_chingling/chingling.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0433_chingling/chingling_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:skrelp",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0690_skrelp/skrelp.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0690_skrelp/skrelp_shiny.png"
+    }
+  ]
+}

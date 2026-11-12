@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:chatot",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0441_chatot/chatot.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0441_chatot/chatot_shiny.png"
+    }
+  ]
+}

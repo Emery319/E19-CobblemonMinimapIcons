@@ -1,0 +1,19 @@
+{
+  "order": 0,
+  "species": "cobblemon:hoothoot",
+  "variations": [
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0163_hoothoot/hoothoot.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0163_hoothoot/hoothoot_shiny.png"
+    }
+  ]
+}
