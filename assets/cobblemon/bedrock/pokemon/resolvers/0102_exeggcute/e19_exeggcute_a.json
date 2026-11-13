@@ -4,6 +4,18 @@
   "variations": [
     {
       "aspects": [
+        "region-bias-alola"
+      ],
+      "texture": "cobblemon:textures/pokemon/0102_exeggcute/exeggcute_alola_bias.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola"
+      ],
+      "texture": "cobblemon:textures/pokemon/0102_exeggcute/exeggcute_alola_bias_shiny.png"
+    },
+    {
+      "aspects": [
         "alpha_eyes"
       ],
       "texture": "cobblemon:textures/alpha/0102_exeggcute/exeggcute.png"
@@ -14,6 +26,21 @@
         "shiny"
       ],
       "texture": "cobblemon:textures/alpha/0102_exeggcute/exeggcute_shiny.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "alpha_eyes"
+      ],
+      "texture": "cobblemon:textures/alpha/0102_exeggcute/exeggcute_alola_bias.png"
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "alpha_eyes",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/alpha/0102_exeggcute/exeggcute_alola_bias_shiny.png"
     }
   ]
 }

@@ -6,14 +6,14 @@
       "aspects": [
         "alpha_eyes"
       ],
-      "texture": "cobblemon:textures/alpha/0122_mrmime/mrmime.png"
+      "texture": "cobblemon:textures/alpha/0122_mrmime/mr_mime.png"
     },
     {
       "aspects": [
         "alpha_eyes",
         "shiny"
       ],
-      "texture": "cobblemon:textures/alpha/0122_mrmime/mrmime_shiny.png"
+      "texture": "cobblemon:textures/alpha/0122_mrmime/mr_mime_shiny.png"
     },
     {
       "aspects": [

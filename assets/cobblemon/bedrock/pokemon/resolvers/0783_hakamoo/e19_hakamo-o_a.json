@@ -6,14 +6,14 @@
       "aspects": [
         "alpha_eyes"
       ],
-      "texture": "cobblemon:textures/alpha/0783_hakamoo/hakamoo.png"
+      "texture": "cobblemon:textures/alpha/0783_hakamoo/hakamo-o.png"
     },
     {
       "aspects": [
         "alpha_eyes",
         "shiny"
       ],
-      "texture": "cobblemon:textures/alpha/0783_hakamoo/hakamoo_shiny.png"
+      "texture": "cobblemon:textures/alpha/0783_hakamoo/hakamo-o_shiny.png"
     }
   ]
 }

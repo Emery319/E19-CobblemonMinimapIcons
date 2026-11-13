@@ -1,19 +1,19 @@
 {
   "order": 0,
-  "species": "cobblemon:jangmoo",
+  "species": "cobblemon:kommoo",
   "variations": [
     {
       "aspects": [
         "alpha_eyes"
       ],
-      "texture": "cobblemon:textures/alpha/0782_jangmoo/jangmoo.png"
+      "texture": "cobblemon:textures/alpha/0784_kommoo/kommo-o.png"
     },
     {
       "aspects": [
         "alpha_eyes",
         "shiny"
       ],
-      "texture": "cobblemon:textures/alpha/0782_jangmoo/jangmoo_shiny.png"
+      "texture": "cobblemon:textures/alpha/0784_kommoo/kommo-o_shiny.png"
     }
   ]
 }
